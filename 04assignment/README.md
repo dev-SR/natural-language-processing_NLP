@@ -1,33 +1,64 @@
 # Assignment-1
 
+<div align="center">
+<img src="img/asgn.jpg" alt="asgn.jpg" width="1000px">
+</div>
+
 - [Assignment-1](#assignment-1)
   - [Load Data](#load-data)
+    - [Processing file - test codes](#processing-file---test-codes)
+    - [Processing file - Final](#processing-file---final)
+    - [Label Encoding](#label-encoding)
+      - [using `pd.factorize()`](#using-pdfactorize)
+      - [using `sklearn.preprocessing.LabelEncoder()`](#using-sklearnpreprocessinglabelencoder)
   - [Data Pre-Process](#data-pre-process)
-
+  - [Split the data into training and test sets](#split-the-data-into-training-and-test-sets)
+  - [Convert text features to numeric](#convert-text-features-to-numeric)
+  - [Train the model](#train-the-model)
 
 ```python
 """
-cd .\03assignment\
+cd .\04assignment\
 jupyter nbconvert --to markdown asng.ipynb --output README.md
 """
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+import seaborn as sns
+import re
+import nltk
 ```
 
 ## Load Data
 
+### Processing file - test codes
+
 
 ```python
-author_name=""
-with open("64171-0.txt", 'r') as target_file:
+with open('38943-0.txt', 'r') as target_file:
 	for num, line in enumerate(target_file.readlines()):
-		if str("Author") in line:
+		if "Title" in line:
+			title = line.split(":")[1].strip()
+			print(title)
+		if "Author" in line:
 			author_name = line.split(":")[1].strip()
-author_name
+			print(author_name)
+author_list = [author_name]*5
+author_list
 ```
 
+    Science and Medieval Thought
+    Sir Thomas Clifford Allbutt
 
 
 
-    'Robert C. (Chamblet) Adams'
+
+
+    ['Sir Thomas Clifford Allbutt',
+     'Sir Thomas Clifford Allbutt',
+     'Sir Thomas Clifford Allbutt',
+     'Sir Thomas Clifford Allbutt',
+     'Sir Thomas Clifford Allbutt']
 
 
 
@@ -51,14 +82,14 @@ with open('64171-0_chapter.txt', 'r') as f:
 	# print(len(data.split()))
 	total_word = len(data.split())
 	data = data.split()
-	indices = []
-	for i, w in enumerate(data):
-		# start reading from CHAPTER I.
-		if "CHAPTERI" in w:
-			indices.append(i)
-	last = indices[-1]
-	# print(last)
-	data = data[last+1:]
+	# indices = []
+	# for i, w in enumerate(data):
+	# 	# start reading from CHAPTER I.
+	# 	if "CHAPTERI" in w:
+	# 		indices.append(i)
+	# last = indices[-1]
+	# # print(last)
+	# data = data[last+1:]
 
 	n = 200
 	for i in range(n):
@@ -75,23 +106,528 @@ with open('64171-0_chapter.txt', 'r') as f:
 
 ```
 
+### Processing file - Final
+
+
+```python
+import os
+def getTextFileList():
+	all_files = os.listdir()
+	txt_files = []
+	for file in all_files:
+		if file.endswith(".txt"):
+			txt_files.append(file)
+	return txt_files
+```
+
+
+```python
+from termcolor import cprint
+def processFiles(text_files,document_no=200):
+	df_obj_of_documents = {
+		"documents":[],
+		"author":[]
+	}
+	list_of_documents = []
+	list_of_authors = []
+	for file in text_files:
+		cprint(f"Extracting from: {file}", 'green')
+		# get Title and Author name
+		author_name=""
+		with open(file, 'r') as target_file:
+			for num, line in enumerate(target_file.readlines()):
+				pass
+				if "Title:" in line:
+					title = line.split(":")[1].strip()
+				if "Author:" in line:
+					print(line)
+					author_name = line.split(":")[1].strip()
+
+		# get documents from each file
+		with open(file, 'r') as f:
+			data = f.read()
+			total_word = len(data.split())
+			data = data.split()
+			# indices = []
+			# for i, w in enumerate(data):
+			# 	# start reading from CHAPTER I.
+			# 	if "CHAPTERI" in w:
+			# 		indices.append(i)
+			# last = indices[-1]
+			# # print(last)
+			# data = data[last+1:]
+
+			# n = 200
+			for i in range(document_no):
+				start_from = round(total_word*i/document_no)
+				end_at = round(total_word*(1+i)/document_no)
+				document = data[start_from:end_at]
+				document = " ".join(document)
+				# print(chunks)
+				# print(100*"=")
+				list_of_documents.append(document)
+
+		print("Book Title: ",end="")
+		cprint(title, 'yellow')
+		print("Author: ",end="")
+		cprint(author_name, 'yellow')
+		# generated_doc_size = len(list_of_documents)
+		print("Documents generated: ",end="")
+		cprint(document_no, 'yellow')
+		repeating_author = [author_name]*document_no
+		# print(repeating_author)
+		list_of_authors = list_of_authors + repeating_author
+		# save to dataframe
+	df_obj_of_documents["author"] = list_of_authors
+	df_obj_of_documents["documents"] = list_of_documents
+	# print(df_obj_of_documents)
+	print(len(list_of_authors))
+	print(len(list_of_documents))
+	return df_obj_of_documents
+
+```
+
+
+```python
+df_obj_of_documents = processFiles(getTextFileList(),document_no=200)
+```
+
+    [32mExtracting from: 38943-0.txt[0m
+    Author: Sir Thomas Clifford Allbutt
+
+    Book Title: [33mScience and Medieval Thought[0m
+    Author: [33mSir Thomas Clifford Allbutt[0m
+    Documents generated: [33m200[0m
+    [32mExtracting from: 64171-0.txt[0m
+    Author: Robert C. (Chamblet) Adams
+
+    Book Title: [33mOn Board the "Rocket"[0m
+    Author: [33mRobert C. (Chamblet) Adams[0m
+    Documents generated: [33m200[0m
+    [32mExtracting from: 65708-0.txt[0m
+    Author: Averroes
+
+    Book Title: [33mThe Philosophy and Theology of Averroes[0m
+    Author: [33mAverroes[0m
+    Documents generated: [33m200[0m
+    [32mExtracting from: pg24055.txt[0m
+    Author: Confucius
+
+    Book Title: [33mThe Sayings Of Confucius[0m
+    Author: [33mConfucius[0m
+    Documents generated: [33m200[0m
+    [32mExtracting from: pg2412.txt[0m
+    Author: Aristotle
+
+    Book Title: [33mThe Categories[0m
+    Author: [33mAristotle[0m
+    Documents generated: [33m200[0m
+    [32mExtracting from: pg34283.txt[0m
+    Author: Alfred William Benn
+
+    Book Title: [33mHistory of Modern Philosophy[0m
+    Author: [33mAlfred William Benn[0m
+    Documents generated: [33m200[0m
+    [32mExtracting from: pg66566.txt[0m
+    Author: T.J. de Boer
+
+    Book Title: [33mThe History of Philosophy in Islam[0m
+    Author: [33mT.J. de Boer[0m
+    Documents generated: [33m200[0m
+    1400
+    1400
+
+
 
 ```python
 import pandas as pd
+# df = pd.DataFrame({
+# 	'data': list_of_blocks,
+# 	"author": author_list
+# })
+df = pd.DataFrame(df_obj_of_documents)
+df.head()
+```
+
+
+
+
+<div>
+
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>documents</th>
+      <th>author</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>0</th>
+      <td>﻿The Project Gutenberg eBook, Science and Medi...</td>
+      <td>Sir Thomas Clifford Allbutt</td>
+    </tr>
+    <tr>
+      <th>1</th>
+      <td>SCIENCE AND MEDIEVAL THOUGHT. * * * * * London...</td>
+      <td>Sir Thomas Clifford Allbutt</td>
+    </tr>
+    <tr>
+      <th>2</th>
+      <td>et facit nos concludere quæstionem, sed non ce...</td>
+      <td>Sir Thomas Clifford Allbutt</td>
+    </tr>
+    <tr>
+      <th>3</th>
+      <td>a phantom, and again the spirit of a new world...</td>
+      <td>Sir Thomas Clifford Allbutt</td>
+    </tr>
+    <tr>
+      <th>4</th>
+      <td>first applied to the art and romance of the Mi...</td>
+      <td>Sir Thomas Clifford Allbutt</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+
+
+
+```python
+df['words_count'] = df['documents'].apply(lambda x: len(x.split()))
+df.head()
+```
+
+
+
+
+<div>
+
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>documents</th>
+      <th>author</th>
+      <th>words_count</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>0</th>
+      <td>﻿The Project Gutenberg eBook, Science and Medi...</td>
+      <td>Sir Thomas Clifford Allbutt</td>
+      <td>142</td>
+    </tr>
+    <tr>
+      <th>1</th>
+      <td>SCIENCE AND MEDIEVAL THOUGHT. * * * * * London...</td>
+      <td>Sir Thomas Clifford Allbutt</td>
+      <td>143</td>
+    </tr>
+    <tr>
+      <th>2</th>
+      <td>et facit nos concludere quæstionem, sed non ce...</td>
+      <td>Sir Thomas Clifford Allbutt</td>
+      <td>142</td>
+    </tr>
+    <tr>
+      <th>3</th>
+      <td>a phantom, and again the spirit of a new world...</td>
+      <td>Sir Thomas Clifford Allbutt</td>
+      <td>142</td>
+    </tr>
+    <tr>
+      <th>4</th>
+      <td>first applied to the art and romance of the Mi...</td>
+      <td>Sir Thomas Clifford Allbutt</td>
+      <td>143</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+
+
+
+```python
+df['words_count'].min()
+```
+
+
+
+
+    87
+
+
+
+
+```python
+df = df.drop(df[df['words_count'] < 100].index)
+# drop documents with less than 100 words
 ```
 
 
 ```python
-author_list = [author_name]*len(list_of_blocks)
-# author_list
+df['words_count'].min()
+```
+
+
+
+
+    142
+
+
+
+### Label Encoding
+
+#### using `pd.factorize()`
+
+
+```python
+y , label = df['author'].factorize()
+label
+```
+
+
+
+
+    Index(['Sir Thomas Clifford Allbutt', 'Robert C. (Chamblet) Adams', 'Averroes',
+           'Confucius', 'Alfred William Benn', 'T.J. de Boer'],
+          dtype='object')
+
+
+
+
+```python
+np.unique(y)
+```
+
+
+
+
+    array([0, 1, 2, 3, 4, 5], dtype=int64)
+
+
+
+
+```python
+if_predit = 1
+label[if_predit]
+```
+
+
+
+
+    'Robert C. (Chamblet) Adams'
+
+
+
+
+```python
+df['label'] = y
+df.head()
+```
+
+
+
+
+<div>
+
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>documents</th>
+      <th>author</th>
+      <th>words_count</th>
+      <th>label</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>0</th>
+      <td>﻿The Project Gutenberg eBook, Science and Medi...</td>
+      <td>Sir Thomas Clifford Allbutt</td>
+      <td>142</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <th>1</th>
+      <td>SCIENCE AND MEDIEVAL THOUGHT. * * * * * London...</td>
+      <td>Sir Thomas Clifford Allbutt</td>
+      <td>143</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <th>2</th>
+      <td>et facit nos concludere quæstionem, sed non ce...</td>
+      <td>Sir Thomas Clifford Allbutt</td>
+      <td>142</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <th>3</th>
+      <td>a phantom, and again the spirit of a new world...</td>
+      <td>Sir Thomas Clifford Allbutt</td>
+      <td>142</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <th>4</th>
+      <td>first applied to the art and romance of the Mi...</td>
+      <td>Sir Thomas Clifford Allbutt</td>
+      <td>143</td>
+      <td>0</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+
+
+
+```python
+# shuffle data
+df = df.sample(frac=1).reset_index(drop=True)
+df.head()
+```
+
+
+
+
+<div>
+
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>documents</th>
+      <th>author</th>
+      <th>words_count</th>
+      <th>label</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>0</th>
+      <td>is beneath it, and through logical inference w...</td>
+      <td>T.J. de Boer</td>
+      <td>320</td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <th>1</th>
+      <td>“If we had pleased, we had certainly given eve...</td>
+      <td>Averroes</td>
+      <td>277</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <th>2</th>
+      <td>astronomy, and alchemy. Averroes it was who fi...</td>
+      <td>Sir Thomas Clifford Allbutt</td>
+      <td>142</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <th>3</th>
+      <td>matter of principle there can of course be but...</td>
+      <td>Robert C. (Chamblet) Adams</td>
+      <td>394</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <th>4</th>
+      <td>also the masts and yards, and wearing away the...</td>
+      <td>Robert C. (Chamblet) Adams</td>
+      <td>395</td>
+      <td>1</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+
+
+#### using `sklearn.preprocessing.LabelEncoder()`
+
+
+```python
+from sklearn.preprocessing import LabelEncoder
+labelencoder = LabelEncoder()
+
 ```
 
 
 ```python
-df = pd.DataFrame({
-	'data': list_of_blocks,
-	"author": author_list
-})
+df['label'] = labelencoder.fit_transform( df['author'])
+df.head()
+```
+
+
+
+
+<div>
+
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>documents</th>
+      <th>author</th>
+      <th>words_count</th>
+      <th>label</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>0</th>
+      <td>﻿The Project Gutenberg eBook, Science and Medi...</td>
+      <td>Sir Thomas Clifford Allbutt</td>
+      <td>142</td>
+      <td>4</td>
+    </tr>
+    <tr>
+      <th>1</th>
+      <td>SCIENCE AND MEDIEVAL THOUGHT. * * * * * London...</td>
+      <td>Sir Thomas Clifford Allbutt</td>
+      <td>143</td>
+      <td>4</td>
+    </tr>
+    <tr>
+      <th>2</th>
+      <td>et facit nos concludere quæstionem, sed non ce...</td>
+      <td>Sir Thomas Clifford Allbutt</td>
+      <td>142</td>
+      <td>4</td>
+    </tr>
+    <tr>
+      <th>3</th>
+      <td>a phantom, and again the spirit of a new world...</td>
+      <td>Sir Thomas Clifford Allbutt</td>
+      <td>142</td>
+      <td>4</td>
+    </tr>
+    <tr>
+      <th>4</th>
+      <td>first applied to the art and romance of the Mi...</td>
+      <td>Sir Thomas Clifford Allbutt</td>
+      <td>143</td>
+      <td>4</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+
+
+
+```python
+# shuffle data
+df = df.sample(frac=1).reset_index(drop=True)
 df.head()
 
 ```
@@ -100,52 +636,52 @@ df.head()
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
       <th></th>
-      <th>data</th>
+      <th>documents</th>
       <th>author</th>
+      <th>words_count</th>
+      <th>label</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <th>0</th>
-      <td>In Lloyds Register is recorded:--"_Rocket_, Bk...</td>
-      <td>Robert C. (Chamblet) Adams</td>
+      <td>its place. According to Cousin, in all countri...</td>
+      <td>Alfred William Benn</td>
+      <td>220</td>
+      <td>0</td>
     </tr>
     <tr>
       <th>1</th>
-      <td>out. Wishing to choose for myself who should s...</td>
-      <td>Robert C. (Chamblet) Adams</td>
+      <td>families of Meng, Shu, and Chi were descended,...</td>
+      <td>Confucius</td>
+      <td>173</td>
+      <td>2</td>
     </tr>
     <tr>
       <th>2</th>
-      <td>quiet, but the mate remarked, he thought we ha...</td>
+      <td>were the conjectures about her, and some of ou...</td>
       <td>Robert C. (Chamblet) Adams</td>
+      <td>395</td>
+      <td>3</td>
     </tr>
     <tr>
       <th>3</th>
-      <td>shore again and you'll never catch me on board...</td>
-      <td>Robert C. (Chamblet) Adams</td>
+      <td>He is the author of the famous saying--the sol...</td>
+      <td>Alfred William Benn</td>
+      <td>220</td>
+      <td>0</td>
     </tr>
     <tr>
       <th>4</th>
-      <td>lower rigging of the ship, forms the great vol...</td>
-      <td>Robert C. (Chamblet) Adams</td>
+      <td>not truthful, I will know nothing. 17. The Mas...</td>
+      <td>Confucius</td>
+      <td>173</td>
+      <td>2</td>
     </tr>
   </tbody>
 </table>
@@ -157,6 +693,7 @@ df.head()
 
 
 ```python
+import nltk
 from nltk.stem.porter import PorterStemmer
 from nltk.tokenize import word_tokenize
 from nltk.corpus import stopwords
@@ -206,7 +743,7 @@ def text_process(msg):
 
 
 ```python
-df['clean_msg'] = df.data.apply(text_process)
+df['clean_msg'] = df.documents.apply(text_process)
 df.head()
 ```
 
@@ -214,58 +751,58 @@ df.head()
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
       <th></th>
-      <th>data</th>
+      <th>documents</th>
       <th>author</th>
+      <th>words_count</th>
+      <th>label</th>
       <th>clean_msg</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <th>0</th>
-      <td>In Lloyds Register is recorded:--"_Rocket_, Bk...</td>
-      <td>Robert C. (Chamblet) Adams</td>
-      <td>lloyd regist recorded_rocket_ bk medford wo ic...</td>
+      <td>is beneath it, and through logical inference w...</td>
+      <td>T.J. de Boer</td>
+      <td>320</td>
+      <td>5</td>
+      <td>beneath logic infer final ration consider dire...</td>
     </tr>
     <tr>
       <th>1</th>
-      <td>out. Wishing to choose for myself who should s...</td>
-      <td>Robert C. (Chamblet) Adams</td>
-      <td>wish choos sail mani month ship master told se...</td>
+      <td>“If we had pleased, we had certainly given eve...</td>
+      <td>Averroes</td>
+      <td>277</td>
+      <td>2</td>
+      <td>pleas certainli given everi soul direct word h...</td>
     </tr>
     <tr>
       <th>2</th>
-      <td>quiet, but the mate remarked, he thought we ha...</td>
-      <td>Robert C. (Chamblet) Adams</td>
-      <td>quiet mate remark thought pretti hard crew wat...</td>
+      <td>astronomy, and alchemy. Averroes it was who fi...</td>
+      <td>Sir Thomas Clifford Allbutt</td>
+      <td>142</td>
+      <td>0</td>
+      <td>astronomi alchemi averro first assert independ...</td>
     </tr>
     <tr>
       <th>3</th>
-      <td>shore again and you'll never catch me on board...</td>
+      <td>matter of principle there can of course be but...</td>
       <td>Robert C. (Chamblet) Adams</td>
-      <td>shore youll never catch board ship morn light ...</td>
+      <td>394</td>
+      <td>1</td>
+      <td>matter principl cours one answerchrist teach e...</td>
     </tr>
     <tr>
       <th>4</th>
-      <td>lower rigging of the ship, forms the great vol...</td>
+      <td>also the masts and yards, and wearing away the...</td>
       <td>Robert C. (Chamblet) Adams</td>
-      <td>lower rig ship form great volum sound constant...</td>
+      <td>395</td>
+      <td>1</td>
+      <td>also mast yard wear away deck holyston well le...</td>
     </tr>
   </tbody>
 </table>
@@ -275,26 +812,173 @@ df.head()
 
 
 ```python
-df['data'][0]
+df['documents'].iloc[0]
 
 ```
 
 
 
 
-    'In Lloyds Register is recorded:--"_Rocket_, Bk. 384, 135, 25, 16.5, 1851, Medford, W.O., icf.," which being interpreted means, Bark _Rocket_, 384 tons, 135 feet long, 25 feet beam, 16-1/2 feet depth of hold, built in 1851, at Medford, of white oak, with iron and copper fastenings. To which may be added, that she was a well known trader to the East Indies, being called in those ports "the green bark," on account of being painted a dark green, or what the painters style tea color. She was a good looking vessel, neatly finished about the decks, and the masts and yards were all scraped bright. The chief peculiarity was that she was narrow in proportion to her length, being compared by an old sailor to "a plank set on edge." This caused her to be reputed, and not undeservedly, a crank vessel, and many a gloomy croaker has uttered the foreboding that like her sister ship, the "Dauntless," she would go to sea sometime--never to return. Yet for many years she had gone and come, and though occasionally threatening to capsize, she had never really performed this undesirable manÅ“uvre. The builder and the subsequent owner were two of the most practical merchants of Boston. She must therefore have been well put together and properly cared for, as there was truth in the remark made, that "what Nat G----, and Dick B---- didn\'t know about a ship wasn\'t worth knowing." * * * * * The _Rocket_ was lying at Central Wharf in Boston, loading a cargo for the East Indies. Barrels of beef, pork, tar and pitch were stowed in the bottom; then followed in miscellaneous order, lumber, sewing machines, kerosene oil, flour, biscuits, preserves, ice pitchers, carriages, oars and many other articles. As the sailing day drew near, the important matter of choosing officers and crew had to be considered. The first person who applied was an aspirant to the mate\'s berth. "How long have you been to sea?" was asked. "Thirty years." "Why! how old are you?" "Twenty-nine." "How do you make that out?" "Oh, I was born and bred at sea." He was thought to be too old a sailor for a young captain to manage, and was not engaged. Soon a young man applied, with more modest demeanor, and he was secured. The rest of the crew were soon picked'
+    'is beneath it, and through logical inference with what is above it, and finally with itself by rational consideration or direct intuition. Of these kinds of knowledge the surest and the most deserving of preference is knowledge of one’s self. When human knowledge attempts to go farther than this, it proves itself to be limited in many ways. Therefore one must not philosophize straight away about questions like the origin or the eternity of the world, but make his first essays with what is simpler. And only through renunciation of the world, and righteous conduct, does the soul lift itself gradually up to the pure knowledge of the Highest.” 5. After secular instruction in Grammar, Poetry and History, and after religious education and doctrine, philosophic study should begin with the mathematical branches. Here everything is set forth in Neo-Pythagorean and Indian fashion. Not only numbers but even the letters of the alphabet are employed in childish trifling. It was particularly convenient for the Brethren that the number of letters in the Arabic alphabet is 28, or 4 multiplied by 7. Instead of proceeding according to practical and real points of view, they give the rein to fancy in all the sciences, in accordance with grammatical analogies and relations of numbers. Their Arithmetic does not investigate Number as such, but rather its significance. No search is made for any more suitable mode of expressing number in the case of phenomena; but things are themselves explained in accordance with the system of numbers. The Theory of number is Divine wisdom, and is above Things, for things are only formed after the pattern of numbers. The absolute principle of all existence and thought is the number One. The science of number, therefore, is found at the beginning, middle, and end of all philosophy. Geometry, with its figures addressing the eye, serves merely to make it more easily understood by beginners, but Arithmetic alone'
 
 
 
 
 ```python
-df['clean_msg'][0]
+df['clean_msg'].iloc[0]
 
 ```
 
 
 
 
-    'lloyd regist recorded_rocket_ bk medford wo icf interpret mean bark _rocket_ ton feet long feet beam feet depth hold built medford white oak iron copper fasten may ad well known trader east indi call port green bark account paint dark green painter style tea color good look vessel neatli finish deck mast yard scrape bright chief peculiar narrow proport length compar old sailor plank set edg caus reput undeservedli crank vessel mani gloomi croaker utter forebod like sister ship dauntless would go sea sometimenev return yet mani year gone come though occasion threaten capsiz never realli perform undesir manåuvr builder subsequ owner two practic merchant boston must therefor well put togeth properli care truth remark made nat g dick b didnt know ship wasnt worth know _rocket_ lie central wharf boston load cargo east indi barrel beef pork tar pitch stow bottom follow miscellan order lumber sew machin kerosen oil flour biscuit preserv ice pitcher carriag oar mani articl sail day drew near import matter choos offic crew consid first person appli aspir mate berth long sea ask thirti year old twentynin make oh born bred sea thought old sailor young captain manag engag soon young man appli modest demeanor secur rest crew soon pick'
+    'beneath logic infer final ration consider direct intuit kind knowledg surest deserv prefer knowledg one self human knowledg attempt go farther prove limit mani way therefor one must philosoph straight away question like origin etern world make first essay simpler renunci world righteou conduct soul lift gradual pure knowledg highest secular instruct grammar poetri histori religi educ doctrin philosoph studi begin mathemat branch everyth set forth neopythagorean indian fashion number even letter alphabet employ childish trifl particularli conveni brethren number letter arab alphabet multipli instead proceed accord practic real point view give rein fanci scienc accord grammat analog relat number arithmet investig number rather signific search made suitabl mode express number case phenomena thing explain accord system number theori number divin wisdom thing thing form pattern number absolut principl exist thought number one scienc number therefor found begin middl end philosophi geometri figur address eye serv mere make easili understood beginn arithmet alon'
 
 
+
+## Split the data into training and test sets
+
+
+
+```python
+# Split into X/y
+from sklearn.model_selection import train_test_split, cross_val_score
+
+x = df["documents"]
+y = df["label"]
+print(x.shape)
+print(y.shape)
+x_train, x_test, y_train, y_test = train_test_split(
+    x, y, test_size=0.2, random_state=0)
+
+print(x_train.shape)
+print(x_test.shape)
+print(y_train.shape)
+print(y_test.shape)
+```
+
+    (1200,)
+    (1200,)
+    (960,)
+    (240,)
+    (960,)
+    (240,)
+
+
+## Convert text features to numeric
+
+
+
+```python
+from sklearn.feature_extraction.text import TfidfVectorizer
+# sublinear_df=True, use a logarithmic form for frequency
+
+# cv2 = TfidfVectorizer(ngram_range=(1, 2))  # 82.5%
+
+
+cv2 = TfidfVectorizer(sublinear_tf=True, min_df=10, norm='l2',
+                      ngram_range=(1, 2), stop_words='english')
+
+
+# min_df is the minimum numbers of documents a word must be present in to be kept
+# norm is set to l2, to ensure all our feature vectors have a euclidian norm of 1
+
+X_traincv = cv2.fit_transform(x_train)
+x_testcv = cv2.transform(x_test)
+print(X_traincv.toarray())
+
+```
+
+    [[0. 0. 0. ... 0. 0. 0.]
+     [0. 0. 0. ... 0. 0. 0.]
+     [0. 0. 0. ... 0. 0. 0.]
+     ...
+     [0. 0. 0. ... 0. 0. 0.]
+     [0. 0. 0. ... 0. 0. 0.]
+     [0. 0. 0. ... 0. 0. 0.]]
+
+
+## Train the model
+
+
+```python
+from sklearn.naive_bayes import MultinomialNB
+mnb= MultinomialNB()
+```
+
+
+```python
+mnb.fit(X_traincv, y_train)
+```
+
+
+
+
+    MultinomialNB()
+
+
+
+
+```python
+mnb.score(x_testcv, y_test)*100
+```
+
+
+
+
+    92.5
+
+
+
+
+```python
+print(f"Test Text:")
+print(x_test.iloc[1])
+```
+
+    Test Text:
+    he has given it the attention which the subject demands as a part of the history of the country. It would be a difficult matter to get at the first American sailor, or to even guess when he existed, but that our continent was once well populated, and that its prehistoric inhabitants sailed the lakes and seas as well as trod the land, is a matter of certainty. Later, when America became known to Europeans, the new comers found Indians well provided with excellent canoes, built of bark or fashioned from logs, but they were "near shore" sailors. The author quotes one instance where a deep sea voyage was undertaken by them in the early days of the English settlers. Certain Carolina Indians, he says, wearied of the white man's sinful ways in trade, thought themselves able to deal direct with the consumers across the "Big Sea Water." So they built several large canoes and loading these with furs and tobacco paddled straight out to sea bound for England. But their ignorance of navigation speedily got the best of their valor. They were never heard of more. The early white navigators of our waters can hardly be considered American sailors. The new found continent was to them of value only for what could be brought away from them in treasure or in merchantable produce, and it was only when an actual and permanent colonization began that a race of native-born sailors was developed on the Atlantic coasts. OLD CONCORD: HER HIGHWAYS AND BYWAYS. Ill. By Margaret Sidney. Boston: D. Lothrop Co. Price $3.00. Of all the books of the year there is not one which carries within it such an aroma of peculiar delight as this series of sketches and descriptions of the highways and byways of that most picturesque of towns, Old Concord. Concord is like no other place in New England. There may be other places as beautiful in their way; there are others, perhaps, of more importance in the Commonwealth, and we know there are hundreds of places where there is more active life to the square foot, but with all these admissions Concord still remains a place of special charm, the result and consequence of more causes than we care to analyze. Its picturesqueness and a certain quaintness of the village has always been noticed by visitors, no matter from
+
+
+
+```python
+actual_label = y_test.iloc[1]
+actual_label
+```
+
+
+
+
+    3
+
+
+
+
+```python
+labelencoder.inverse_transform([actual_label])
+```
+
+
+
+
+    array(['Robert C. (Chamblet) Adams'], dtype=object)
+
+
+
+
+```python
+y_pred = mnb.predict(cv2.transform([x_test.iloc[1]]))
+print(f"Predicted Y : {y_pred[0]}, author: {labelencoder.inverse_transform([y_pred[0]])}")
+```
+
+    Predicted Y : 3, author: ['Robert C. (Chamblet) Adams']
+
+
+
+```python
+# For pd.factorize()
+# print(f"Actual Y: {y_test.iloc[0]}, author: {label[y_test.iloc[0]]}")
+# y_pred = mnb.predict(cv2.transform([x_test.iloc[0]]))
+# print(f"Predicted Y : {y_pred[0]}, author: {label[y_pred[0]]}")
+
+```

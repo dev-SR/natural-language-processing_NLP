@@ -1,0 +1,3017 @@
+﻿The Project Gutenberg eBook, Science and Medieval Thought, by Sir Thomas
+Clifford Allbutt
+
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+
+
+
+
+Title: Science and Medieval Thought
+       The Harveian Oration Delivered Before the Royal College of Physicians, October 18, 1900
+
+
+Author: Sir Thomas Clifford Allbutt
+
+
+
+Release Date: February 21, 2012  [eBook #38943]
+
+Language: English
+
+Character set encoding: UTF-8
+
+
+***START OF THE PROJECT GUTENBERG EBOOK SCIENCE AND MEDIEVAL THOUGHT***
+
+
+E-text prepared by Irma Spehar, Turgut Dincer, and the Online Distributed
+Proofreading Team (http://www.pgdp.net) from page images generously made
+available by Internet Archive/American Libraries
+(http://www.archive.org/details/americana)
+
+
+
+Note: Images of the original pages are available through
+      Internet Archive/American Libraries. See
+      http://www.archive.org/details/sciencemedievalt00allbrich
+
+
+
+
+
+SCIENCE AND MEDIEVAL THOUGHT.
+
+       *       *       *       *       *
+
+London: C. J. CLAY AND SONS,
+CAMBRIDGE UNIVERSITY PRESS WAREHOUSE,
+AVE MARIA LANE.
+Glasgow: 50, WELLINGTON STREET.
+
+Leipzig: F. A. BROCKHAUS.
+New York: THE MACMILLAN COMPANY.
+Bombay: E. SEYMOUR HALE.
+
+       *       *       *       *       *
+
+
+SCIENCE AND MEDIEVAL THOUGHT
+
+The Harveian Oration Delivered Before
+the Royal College of Physicians,
+October 18, 1900,
+
+by
+
+THOMAS CLIFFORD ALLBUTT, M.A., M.D. Cantab.
+
+Fellow of the College,
+Hon. Ll.D. Glasgow, Hon. M.D. Dubl., Hon. D.Sc. Vict.,
+Hon. F.R.C.P. Dubl., F.R.S.
+
+Regius Professor of Physic in the University of Cambridge;
+Fellow of Gonville and Caius College, Cambridge;
+Consulting Physician to the Leeds General Infirmary;
+Physician to the Addenbrooke's Hospital, Cambridge.
+
+
+
+
+
+
+
+London
+C. J. Clay and Sons
+Cambridge University Press Warehouse
+Ave Maria Lane
+1901
+[All Rights reserved.]
+
+
+
+
+  “Duo enim sunt modi cognoscendi, scilicet per argumentum et
+  experimentum. Argumentum concludit, et facit nos concludere
+  quæstionem, sed non certificat, neque removet dubitationem, ut
+  quiescat animus in intuitu veritatis, nisi eam inveniat via
+  experientiæ.” ROGER BACON, _Op. Majus_, Venet. 1750, p. 336.
+
+
+  TO
+
+  SIR WILLIAM SELBY CHURCH, BART., M.D.
+
+  PRESIDENT OF THE ROYAL COLLEGE OF PHYSICIANS OF LONDON,
+
+  THIS ORATION,
+  DELIVERED AT HIS REQUEST,
+  IS DEDICATED.
+
+
+
+
+ERRATUM.
+
+
+p. 78, note 1, l. 19; _for_ “were in orders, for the most part in holy
+orders;” _read_ “were generally speaking in holy orders;”
+
+
+
+
+PREFACE.
+
+
+In the Middle Ages the old world had passed, and the vision of a new
+world came near to the eager and passionate hearts of many peoples.
+Lincoln and Wells, Amiens and Chartres, Florence and Assisi tell us of
+the glory of that vision; and bear witness of its flight: for with
+Gilbert, Galileo, Harvey and Newton the Middle Ages themselves became a
+phantom, and again the spirit of a new world appeared. Thus in the
+phases of time the world dies and is born again; fulfilling greater
+destinies. But the new are born in the cold bed of the elder worlds, and
+the young life is chilled, or a lustier offspring turns unnaturally to
+curse the dead; so in their decrepitude lay the Middle Ages upon modern
+life; and the Middle Ages were accursed, until certain pious men sought
+to reanimate their vestments and their formulas, and to set the hands
+back on the dial of the centuries; as manyminded man seeks wistfully to
+reanimate the simple wonders and beliefs of his childhood. Their
+ministry was no more than pious; the method of modern history wins the
+fruits of the past while casting away the shadow of its withered
+branches. This comparative method, first applied to the art and romance
+of the Middle Ages, so that every dilettante may now discourse to us of
+their evolution, has been applied also to the thought of the period; but
+its results, laid up in the closets of a few scholars, are as yet
+unfamiliar. It may then become one, who in no sense a scholar has
+strayed into these secret places, to try to distribute some lessons of
+the medieval thought which, to many of us, seems as sere and outworn as
+did the relics of Gothic shrines to our great-grandfathers. For, as in
+those medieval generations which lay nearest us the furnace had cooled,
+impatiently we had thrown metal and dross aside, and let our contempt
+for the dryness and pedantry of its latter days prevent our vision of
+the earlier time when the passion for knowledge bore up the world, and
+sought even to contain it. That dogma is not eternal is manifest to
+every wanderer in the streets of Toledo, yet the historian may well
+recall us to the study of a time when, by mystical or intellectual
+inspirations, men strove eagerly to know the meaning of life, its
+origins, and its issues; and may lead us to the discovery of the seeds
+and wells of its fertility. The Greeks prophesied that before man can
+determine his place and service in this world he must form some theory
+of the world as a whole; the ages of faith prophesied that great deeds
+must be born of great faith and of great conceptions.
+
+To those who live only in the past, or only in the present, there seems
+in the discriminations of the comparative historian to be a certain
+cold-bloodedness. Are not the ears of this critic, so aloof from the
+murmuring of creed and controversy, are they not deaf to the voices of
+the spirit which he would interpret to us? A distinguished bishop who
+was among my hearers, with the fervour and gentle humour so well known
+in him, rallied me not for celebrating science but for putting religion
+to rout. Yet in our own day surely the argument is changed, not in form
+only but in very nature; so changed by the conceptions of evolution,
+which have entered the mind of churchman and layman alike, that not a
+few speculative beliefs are changing sides without the knowledge of the
+disputants; and he who thinks himself a defender of the faith may have
+joined the revolt. But if we no longer carry the colours of the troops
+of the past we shall collect our lessons from its strategies; and for
+one of these lessons a prelate of the King will give thanks with me,
+that his supremacy has palsied the arm of the inquisitor to strengthen
+that of the apostle.
+
+       *       *       *       *       *
+
+An unsystematic reader of a subject finds it out of his power to make
+due acknowledgment of the help and advantage derived from expert
+authors. Much of the matter had seeded itself insensibly in his brain in
+the course of general reading and conversation; much of it again had
+been obtained more carefully from sources now forgotten. To the
+following authors I know I am profoundly indebted, as I am to many
+others to whose names and works I can now give no reference:
+
+  Hauréau, La Philosophie Scolastique, Ed. 1872;
+
+  Jowett, Dialogues of Plato (vol. III. p. 523);
+
+  Jourdain (Amable), Recherches critiques, Paris 1848;
+
+  Jourdain (Charles), Excursions historiques, Paris 1888 (and the
+    Philosophie de St Thomas of the same author);
+
+  Ampère, Histoire litt. de la France avant le XIIme siècle;
+
+  Brucker's Historia Critica Philosophiæ (English Ed., 1791);
+
+  Renan, Averroès, Paris 1866; the Philosophie périp. apud Syros;
+    and the Peuples Sémitiques dans l'histoire de la civilisation, of
+    the same author;
+
+  Roger Bacon, Westminster Review, 1864, two Articles (by Thomas
+    Marshall, M.A. Oxon.);
+
+  Schmidt, Essai sur les Mystiques du XIVme siècle;
+
+  Benn, A. W., The Greek Philosophers, London 1882 (and many helpful
+    essays in periodical literature);
+
+  Zeller, Die Philosophie der Griechen, 1881;
+
+  Krische, A. B., Theologische Lehre d. Griechischen Denker,
+    Göttingen 1840;
+
+  Ueberweg, Grundriss d. Gesch. d. Phil. des Alterthums, Berlin
+    1867; Gerlach und Traumüller, Gesch. d. physik.
+    Experimentierkunst, Leipzig 1899;
+
+  Rashdall's History of Universities;
+
+  Haeser, Geschichte der Medicin, Jena 1875-82;
+
+  Baas, J. H., Gesch. d. Medicin, Stuttgart 1876;
+
+  _Idem_, Die geschichtliche Entwicklung des ärztlichen Standes,
+    Berlin 1896;
+
+  Charles Daremberg (all his works);
+
+  Rousselot, Études sur la philosophie dans le Moyen Age, 1840;
+
+  Pattison, Casaubon, 1875;
+
+  Meunier, Francis, Essai sur la vie et les ouvrages de Nicole
+    Oresme, Paris 1857.
+
+  Descartes, Epist. Cartes. 4to. Amst., 1668;
+
+  Plumpius, Fundamenta Med. Fol. Lovan., 1652;
+
+  Sylvii Op. Omn., 1679, p. 875;
+
+  Haller, Elem. Physiol., 1757, I. 3;
+
+  Tiedemann, Physiologie de l'homme, Paris 1831, I. 41;
+
+  Delle Chiaja, Instituzione di Anatom. e Fis. Comp., 1832, I. 13.
+
+  (The six last works are cited as being especially useful, among
+  many others, to show the extent to which modern physiology, from
+  Harvey onwards, is based upon vivisection; and that it could not
+  have arisen or thriven otherwise. It was by the test of many
+  vivisections that Plumpius was led to the honourable withdrawal of
+  his opposition to Harvey.)
+
+
+
+
+INTRODUCTION[1].
+
+
+In the many Harveian Orations which have been delivered since the death
+of the founder of modern physiology the direct aspects of his honour and
+of his work have been exhausted; of late years the orators have
+concerned themselves with indirect aspects. Some of my friends have said
+to me that they lack a perspective view of Harvey and his work; that
+even highly educated men have little sense of his relation to medieval
+thought, or of the evolution of medieval into modern thought. Of the
+several stars of the constellation—of Copernicus, Gilbert, Galileo,
+Harvey—they had some knowledge; but how came Harvey to be at Padua? how
+did science spring up in North Italy? did science arise out of the womb
+of medicine, or contrariwise? why did natural science not flourish in
+the thirteenth century, and was it not a great misfortune for Europe
+that it did not then flourish? what were the systems of thought which in
+the Middle Ages preceded, encouraged or thwarted the travail of the
+human mind, and what of good or ill do we owe to them? These and such
+questions it seemed not unfitting that a Harveian Orator of this latter
+day should consider. Now on the philosophy of the Middle Ages, and on
+its relation to the era of positive science of which Harvey was perhaps
+the chief pioneer, there lay in a drawer in my cabinet the confused and
+occasional notes of many years. An interest in this thorny subject, sown
+in my mind at first by accident, and reawakened by these enquiring
+friends, had for me the charms of an old fancy, and I trust some brief
+essay thereon may have a temporary service; if, that is, I can touch the
+imagination of my hearers, and after some broken fashion bring before
+them a vision of the nations swayed hither and thither upon the face of
+Europe by a thirst for knowledge of a kind different, both in its
+methods and in its aims, from our own.
+
+This oration cannot have the merit of an original study. Had I the
+equipment I have not the leisure to carry my investigations to the
+sources. Yet I may have attained to some maturity of judgment herein by
+long occupation of my mind since, in 1863, my old friend Mr Thomas
+Marshall of Leeds, sometime of St John’s College, Oxford, interested me
+in the life and work of Roger Bacon, the only eminent forerunner of the
+great naturalists of the seventeenth century.
+
+The art of the Middle Ages and the social and political history of the
+time have fascinated modern Europe; for medieval thought, though its
+phrases survive in their mouths, few persons have shown any care: yet to
+these conflicts we owe what we are. No great battles of mankind have
+been fought in vain; none of its great captains has deserved oblivion.
+Yet we shrug our shoulders at their uncouth or outlandish names; we
+assume that from their chairs there issued naught but rhetoric,
+casuistries and fallacies, and that their multitudinous disciples were
+silly moths.
+
+Each period of human achievement has its phases of spring, culmination,
+and decline; and it is in its decline that the leafless tree comes to
+judgment. In the unloveliness of decay the Middle Ages are as other ages
+have been, as our own will be: but in those ages there was more than one
+outburst of life; more than once the enthusiasm of the youth of the West
+went out to explore the ways of the realm of ideas; and, if we believe
+ourselves at last to have found the only thoroughfare, we owe this
+knowledge to those who before us travelled the uncharted seas. If we
+have inherited a great commerce and dominion of science it is because
+their argosies had been on the ocean, and their camels on the desert.
+“Discipulus est prioris posterior dies”; man cannot know all at once;
+knowledge must be built up by laborious generations. In all times, as in
+our own, the advance of knowledge is very largely by elimination and
+negation; we ascertain what is not true, and we weed it out. To perceive
+and to respect the limits of the knowable we must have sought to
+transgress them. We can build our bridge over the chasm of ignorance
+with stored material in which the thirteenth century was poor indeed, we
+can fix our bearings where then was no foundation; yet man may be well
+engaged when he knows not the ends of his work; and the schoolmen in
+digging for treasure cultivated the field of knowledge, even for Galileo
+and Harvey, for Newton and Darwin. Their many errors came not of
+indolence, for they were passionate; not of hatred of light, for they
+were eager for the light; not of fickleness, for they wrought with
+unparalleled devotion; nor indeed of ignorance of particular things, for
+they knew many things: they erred because they did not know, and they
+could not know, the conditions of the problems which, as they emerged
+from the cauldron of war and from the wreck of letters and science, they
+were nevertheless bound to attack, if civil societies worthy of the name
+were to be constructed. How slow in gestation is the mother of truth we
+may see by comparing the schoolmen of the second medieval period with
+those of the first; in the enlargement of their view, the better
+furniture of their minds, and the deeper meaning of their distinctions:
+and when we compare with these later schoolmen the naturalists of the
+seventeenth century, we find not new acquirements only but also a new
+direction of the pursuit of truth.
+
+It seems hardly comprehensible that great and stable societies have been
+built up on transcendental schemes of thought, upon conceptions poised
+as it were in the air. Without a system of morals no civil society
+could exist; yet if mankind must have waited for civil polity until some
+such system were built up from below, of scientifically tested
+materials, social constructions would have been virtually impossible. In
+morals, as in the arts, the art precedes the science; the intuitions of
+genius imagine social schemes of provisional validity, and new and lofty
+standards of fitness. But a social fabric thus born of a vision can bear
+no rough handling; and even the solid builders who would make a more
+permanent foundation upon positive conceptions, while seeking more or
+less deliberately to underpin the fabric, may, and often do, shake it to
+ruin.
+
+Hence in all guardians of morals the dread of meddling with the reigning
+vision of truth; hence its sanctity, that no man shall try the stuff of
+which it is made. And the dangers of heresies from within are more
+fearful than those of alien attacks; social cohesion, the end of it all,
+is thereby more exposed to disintegration. Yet nevertheless, as the
+generations of men change, and as knowledge increases, men see from new
+points of view; and thus while for some the reigning vision retains its
+apparent solidity, for others its rays are broken or dissolved. Even
+John Henry Newman was compelled to teach the relativity of truth, and
+that a doctrine of development must be accepted. For every provisional
+synthesis then the time must come when the apparition of truth can no
+longer command united allegiance, and criterions begin to encroach upon
+sanctions. Broader and more stable foundations have, it is true, been
+rising almost insensibly, yet it may be long ere the superstructure rise
+into the heavenly light; in the lower work many will see no beauty and
+no hope, others will see safety in its enlargement and solidity. By
+these indeed the visions of the imagination are apt to be forgotten, or
+in the pressure of intellectual verification even despised; the mean
+level of conception may not indeed be lower, it may haply be higher, yet
+the highest, wherein truth may be revealed by illumination, is not
+divined in its full force, abundance and life. Great seers are wont to
+leave to others to find out, or even to care, what bottom they stood
+upon; yet only through transitory periods of a humbler duty than theirs
+can the bases be laid and enlarged for times of richer fruition. One of
+the profoundest of modern sayings was that of Freeman—that the end of
+modern material progress is to bring large societies up to the level of
+small ones.
+
+       *       *       *       *       *
+
+This is the day of a great celebration; that on this anniversary I am
+worthy to take a place in the succession of your Orators is more than I
+dare to believe, that you have deemed me worthy is my encouragement. In
+private duty also I am bound to honour one of the greatest of the sons
+of the University of Cambridge, and the greatest member of the ancient
+and honourable house of Gonville and Caius College.
+
+In some respects I am ill equipped for my office; of the history of the
+practice of Medicine from the time of Galen to the time of Harvey I am
+almost ignorant, I fear wilfully ignorant. Well indeed may we turn our
+eyes away from those centuries wherein one of the chief callings of man
+fell into unexampled and even odious degradation; yet I trust that in me
+this ignorance and this aversion may be compensated by some familiarity
+with the history of thought in the Middle Ages, a familiarity acquired
+during thirty-six years of abiding interest, and occasional study.
+
+The discovery of the circulation of the blood by William Harvey is
+commonly regarded among scientific discoveries as pre-eminent if not
+unique. I can quote but two opinions on this matter, both taken beyond
+our own land. In France, Dr Daremberg exclaims “Voici Harvey! Comme au
+jour de la création le chaos se débrouille, la lumière se sépare des
+ténèbres!” In Germany, Dr Baas says that Harvey stands alone in respect
+of the world of life; that his discovery of the inner working of the
+microcosm takes a place equal to, if not indeed higher than, those of
+Copernicus, Kepler and Newton in respect of the macrocosm. It will be
+my endeavour to show that these judgments are historically justifiable.
+
+To put the discovery of the systemic circulation of the blood in its
+true light, we must have some notion of the history of philosophy,
+science and medicine. Medicine, and herein it is in contrast with
+Theology and Law, had its sources almost wholly in the Greeks. Not only
+in the doctrine of the four elements of Empedocles, a doctrine which has
+survived almost to our own day[2], and in the physical theories of
+Heraclitus and Leucippus, did medicine, for good or ill, first find a
+scheme of thought, but in the schools of Hippocrates and of Alexandria
+it was based also, and far more soundly, upon natural history and
+anatomy. The noble figure of Galen, the first experimental physiologist
+and the last of the great Greek physicians, portrayed for us by Dr Payne
+in the Harveian Oration of 1896, stood eminent upon the brow of the
+abyss when, as if by some convulsion of nature, medicine was overwhelmed
+for fifteen centuries. To the philosophy of medicine, Galen had given
+more than enough; to its natural history he had contributed in the
+following of Hippocrates; to its discoveries he had given the greatest
+of all means of research, individual genius; to its methods he had
+given, but in vain, that indispensable method, practised first perhaps
+in history by Archimedes and the Alexandrians, of verification by
+experiment; a method, after Galen, virtually lost till the time of
+Gilbert, of Galileo and of Harvey.
+
+In the growth of human societies small civilisations, however exquisite,
+have been sacrificed to the formation of vaster and vaster congregations
+of men; thus only, it would seem, is an equilibrium to be reached of
+sufficient stability for the highest ends of mankind. Greece, beautiful
+as was her bloom, penetrating as was her spirit, perhaps because of her
+very freedom of thought, never became a nation; her city states were too
+wilful to combine. The Macedonian power broadened the foundation of
+polity eastward and westward; and this work was carried as far perhaps
+as sword and fasces could carry it by the power of Rome. But even the
+Roman peace, bought as it was at the cost of learning and the arts, was
+but a mechanical peace; in the wilder, more turbulent and more
+heterogeneous peoples of the later Empire the bodies but not the wills
+of men were in subjugation. The great system of Roman Law, which Numa,
+the Moses of Rome, had invested with supernatural awe, had become but an
+external rule; even in Rome herself, poorer in people, poorer in
+commerce, poorer than ever in ideas, the sanction of patriotism was
+failing, and her citizens were held together for the most part by their
+baser and more dangerous passions[3]. For Eastern Europe the University
+of Constantinople established a compact and uniform system of thought,
+subtle prolix and acquisitive rather than original or profound; but in
+the West, under the Frank and later Northern devastations, the very
+traditions of learning and obedience were broken up; schools were
+closed, and even the art of writing was almost lost. Then it was that
+the cohesion and development of Western Europe were saved by a new and
+a wonderful thing. From the East, the home of religions, had spread,
+like an exhalation, Christianity, that religion which proves by its
+survival that it is the fittest sanction for the will of man. This
+religion, entering as a new spirit into the ancient fabric of Roman
+Empire, was to hold men’s service in heart and soul as well as in body;
+yet to this end no mere mystic or personal religion could suffice:
+clothing itself with the political and ritual pride and even with the
+mythology of the pagan Empire it inspired a new adoration; but it
+imposed also upon Europe a catholic and elaborated creed. To preserve
+the authority of the common faith not only must every knee be bowed, not
+only must every heart be touched, but to build and to repair its fabric
+every mind must also bring its service. How the scheme of the Faith was
+built up, how oriental ecstasy and hellenistic subtlety, possessing
+themselves of the machinery of Roman pomp, were wrought to this end, we
+may briefly consider.
+
+As, politically, under Diocletian and Constantine the ancient world gave
+place to the new, so in the third century philosophy was born again in
+neo-platonism[4], the offspring of the coition of East and West in
+Alexandria, where all religions and all philosophies met together. The
+world and the flesh were crucified that by the spirit, man might enter
+into God[5]. Pure in its ethical mood, neo-platonism, says Harnack, led
+surely to intellectual bankruptcy; the irruption of the barbarians was
+not altogether the cause of the eclipse of natural knowledge: to
+transcendental intuition the wisdom of the world had become foolishness.
+Yet even then, as again and again, came the genius of Aristotle to save
+the human mind. The death of Hypatia was the death of the School of
+Alexandria, but in Athens neo-platonism survived and grew. Proclus,
+ascetic as he was, was versed also in Aristotle; and he compelled the
+Eastern mysteries into categories: so that on the closure of the School
+of Athens by Justinian (A.D. 529) a formal philosophy was bequeathed to
+the Faith; the first scholastic period was fashioned, and the objects
+and methods of enquiry were determined for thirty generations. From
+Aristotle Europe adopted logic first, and then metaphysics, yet both in
+method and in purpose Origen and Augustine were platonists; rationalised
+dogma lived upon dialectic, and conflicted with mysticism; but logic,
+dogma and mysticism alike disdained experience.
+
+Thus, no mere external sanction, stood the Faith; threefold: from the
+past it brought its pompous ritual, it appealed by its subtle dogmatic
+scheme to the intellects, and by its devotion to the hearts of men.
+Through the mirage of it, when its substance had waned, Copernicus,
+Galileo, and Harvey had to steer by the compass of the experimental
+method. This was their chief adversity, and of other adversities I have
+to speak.
+
+The visitor to the Dominican Church of St Catherine at Pisa will see on
+its walls St Thomas of Aquino with the Holy Scriptures in his hand;
+prostrate beneath him is Averroes with his Great Commentary, but beside
+him Plato bearing the Timæus. It was the fortune of the Faith that, of
+all the treatises of Plato, the Timæus, the most fantastic and the least
+scientific, should have been set apart to instruct the medieval world;
+that the cosmical scheme of the Timæus, apparelled in the Latin of
+Chalcidius,—for there were then no Greek texts in the libraries of the
+West,—should for some 500 years have occupied that theoretical activity
+which Aristotle regarded as the highest good of man[6]. Again, those
+works of. Aristotle which might have made for natural knowledge fell out
+of men’s hands[7], while in them, as Abélard tells us of himself, lay
+the Categories, the Interpretation, and the Introduction of Porphyry to
+the Categories, all in the Latin of Boetius[8]; treatises which made for
+peripatetic nominalism, but whereby men were versed rather in logic and
+rhetoric than in natural science. Thus Plato’s chimera of the human
+microcosm, a reflection of his theory of the macrocosm, stood beside the
+Faith as the second great adversary of physiology.
+
+The influence of authority, by which Europe was to be welded together,
+governed all human ideas. As in theology was the authority of the Faith,
+so in the science and medicine of the first period of the Middle Ages
+was that of the neo-platonic doctrines, and, in the second period, of
+the Arabian versions of Galen and of Aristotle; furthermore in this
+rigid discipline metallic doctrine almost necessarily overbore life and
+freedom. It is not easy for us to realise a time when intellectual
+progress—which involves the successive abandonment of provisional
+syntheses—was unconceived; when truths were regarded as stationary;
+when reasons were not tested but counted and balanced; when even the
+later Averroists found final answers either in Aristotle or in Galen[9].
+Thus in the irony of things it came to pass that Harvey was withstood by
+the dogma of Galen who, in his own day, had passionately appealed from
+dogma to nature.
+
+Porphyry of Tyre, who lived in the 3rd century, may be called the
+founder of both Arabian and Christian scholastics. He was an
+Alexandrian, but of peripatetic rather than platonic opinions. In the
+Isagoge, or Introduction to the Categories, already mentioned as
+translated by Boetius about 500 A.D., he set forth plainly a problem
+which during the Middle Ages rent Western Europe asunder; a problem
+which, says John of Salisbury[10], engaged more of the time and
+passions of men than for the house of Cæsar to conquer and govern the
+world; one indeed which even in our day and country is not wholly
+resolved.
+
+The controversy lay between the Realists[11] and the Nominalists; and
+the issues of it, in the eleventh century,—at which time the “Dark
+Ages” passed into the earlier of the two periods of the Middle
+Ages,—were formulated on the realist side by William of Champeaux,
+while the Breton Rousselin, or Roscellinus, had the perilous honour of
+defining them on behalf of the nominalists[12]. To see the depth of the
+difference we must step back a little, to a time when metaphysics and
+psychology were not distinguished from other spheres of science[13], and
+all research had for its object the nature of being. Plato himself held
+ideas not as mere abstractions but in some degree as creative powers;
+and we shall see how potent this function became in the thought of the
+Middle Ages when, in the ardour of research into the nature of being,
+the modes of individuating principles were distinguished or contrasted
+with an ingenuity incomprehensible to Plato or Aristotle, or at any rate
+undesired by these greater thinkers. Aristotle avoided the question
+whether form or matter individuate; he held that there is no form and no
+matter extrinsic to the individual. But by the medieval realist every
+particular, every thing, was regarded as after some fashion the product
+of universal matter and individual form. Now “form” might be regarded,
+and severally was regarded, as a shaping, determinative force or
+principle, pattern type or mould, having real existence apart from
+stuff, or, on the other hand, as an abstract principle or pattern having
+no existence but as a conception of the mind of the observer. The
+realists roundly asserted that form is as actual as matter, and that
+things arise by their participation—without whiteness no white thing,
+without humanity no man; and not individuals only: for the realist,
+out-platonising Plato, genera and species also had their forms, either
+pre-existent (“universalia ante rem”), or continuously evolved in the
+several acts of creation (“universalia in re”). Indeed for the extreme
+realist every “predicamental modality” was “aliquid ens separatum”; for
+instance, the soul, the active intellect, the passive intellect, and so
+on: conversely, by fusing idea with will, for other philosophers realism
+would get pushed back into efficient reason or divine will, and almost
+vanish[14]. By this latter route the Sorbonne, originally opposed to the
+Thomists, became nominalist after all; as did those once pious realists
+the Augustinians and Cistercians. Setting aside then the extreme
+nominalists, who would have dissolved thought by declaring all creatures
+to be so individual as to be incomparable,—“pulverising existence into
+detached particulars,” as some one has put it—and that names of kinds
+are mere nouns, or indeed mere air (“flatus vocis”), the prevalent
+nominalists were content to deny to ideas, forms, principles, or
+abstractions any other existence than as functions of the human
+mind—as subjective conceptions. For Ockham, says Hauréau, an idea was
+but a modality of the thinking subject. Abstractions then for these
+thinkers were but mental machinery for analysis of the concrete.
+Aristotle was as obscure and inconsistent in his language herein, and
+often elsewhere, as he was profound and scrupulous; but when his works
+came to be studied as a whole, and in the original tongue, the influence
+of his method, rather than the close consistency of his language, told
+against realism: virtually he was a conceptualist, and he found reality,
+where Plato denied it, in the particular object of sense[15].
+Even Francis Bacon, who was deeply indebted to Aristotle, never
+extricated himself from the tangle of form, cause and law[16].
+
+Now this was a great argument, no empty dispute; the bones of dead
+controversies cumber the ground, but no controversy was empty which
+moved profoundly the minds and passions of men: both for ecclesiastical
+and secular thought the dispute was grave. While realism was essential
+to the Church—for instance, on realist grounds St Anselm defended the
+medieval doctrine of the Trinity against Roscellinus; the Church herself
+claimed a real existence apart from the wills of successive generations
+of individual and variable men; she taught that Man had fallen not only
+in many or all individual cases, but as a kind having a real
+existence[17], and again that in the Mass there is change of
+hypostasis[18]—while then realism was essential to the Faith, yet if
+forms pre-exist (“ante rem”) then the acts of God must be
+predetermined—“fatis” non “avolsa voluntas”; or if forms are only “in
+re” God must be form, living in each and every act and thing, which is
+Pantheism (“materia omnium Deus”): an impersonal conception and a
+dissolution of dogma which the Church must and did abhor. “Pessimus
+error”—there is the abyss, cried Albert, avoiding it by dialectical
+juggles. Erigena, the brilliant prophet and protestant[19] of the first
+period of the scholastic philosophy, was virtually a pantheist after
+the pattern of Parmenides[20]; as Spinoza was the last great realist.
+David of Dinan again was such a pantheist, though luckily for him the
+Church did not find it out till he was dead; and he was martyred only in
+his bones. Indeed the great Robert of Lincoln barely escaped the
+accusation of pantheism under the wing of Augustine. The heresies of
+David, and of Amaury, caused the reaction of the first years of the 13th
+century against Aristotle. Amaury seems indeed to have cleared out
+Christian dogma pretty thoroughly, and to have preached the coming of
+science as the “third age” of the world. Many of his followers were sent
+to the stake; by the Synod of Paris (1209) the works of Aristotle were
+proscribed, and many copies of them burned. This proscription was
+virtually withdrawn by Gregory the Ninth in 1231; and Hales, Albert and
+St Thomas devoted themselves again to the study of Aristotle, and
+established his supremacy[21]. Indispensable then as realism was for
+the Church, its creed, and its sacraments, yet therein it found itself
+in a dilemma between the conceptions of a Creator working under
+conditions, and of a spirit immanent in matter; and when theological
+philosophy culminated in St Thomas, and was fixed by him as it now rules
+in Rome, this difficulty was rather concealed in his system than
+resolved[22]. Every scheme of thought must make some declaration on the
+nature and place of universals; the problem was no hair splitting[23],
+it dealt with the very nature and origin of being; it agitated the minds
+of thinking men at a time of the most fervid and widespread enthusiasm
+for knowledge which the Western world has ever known,—at a time when
+Oxford counted its students by thousands, and when in Paris a throng
+athirst for knowledge would stretch from the cloisters of the Mathurins
+to the faubourg of St Denis[24]; and, in respect of our theme of this
+day, we shall see that even Harvey was embarrassed by certain aspects of
+it.
+
+For, to resume, closely allied to the argument concerning universals was
+that concerning “form and matter.” Whether the terms used were “form and
+matter,” force or energy or “pneuma” and matter, “soul or life” and
+“body,” “determinative essence and determinate subsistence,” “male
+principle and female element,” “archæus and body,” the potter and the
+clay of the potter; or whether again they were “type and individual,”
+“cause and effect,” “law and nature,” “becoming and being,” or even the
+“thought and extension” of Descartes, the riddle lay in the contrast of
+the static and dynamic aspects of things; in the incessant formation of
+variable and transitory individuals in the eternal ocean of
+existence[25].
+
+  “Spiritus intus alit, totamque infusa per artus
+   Mens agitat molem, et magno se corpore miscet.”
+
+For early thinkers, untrained in the methods and unaware of the limits
+of thought, even for the great and free thinkers of Greece, a
+captivating analogy was irresistible[26]; while inventing schemes of
+thought they believed themselves to be describing the processes of
+nature. Moreover it has been the temptation of philosophers of all
+times, and even of Harvey himself than whom none had put better the
+conditions of scientific method, to suppose that by means of abstraction
+kinds may be apprehended; that thus they may get nearer to the inmost
+core of things; that by purging away the characters of individuals they
+may detect the essence and cause of individuation (σπερματικὸς λόγος):
+not perceiving indeed that the content of notions is, as Abélard had
+pointed out plainly, in inverse proportion to their universality. Like
+Sidney’s hooded dove, the blinder they were the higher they strove[27].
+For example: from a lump of silver a medal is struck; from many lumps of
+silver many medals are struck, each different from the other: let us
+eliminate as accidents the notions of silver, of the blow of a hammer,
+even of particular features of the devices, and we shall reach the idea
+of an agent with a type or seal, or of such an agent with many seals, or
+ideas, who may thus individualise indifferent matter; or, to penetrate
+deeper into abstraction, who may transfer forms of his own activity to
+motionless stuff. It is my part to-day to show that before motionless
+stuff—before the problem of the “primum mobile”—even Harvey himself
+stood helpless; helpless yet fascinated by the indulgence of invention
+when, in the _De motu cordis_, or the _De generatione_, he permitted
+himself to carry contemplation beyond the sphere of his admirable
+experiments. “Natural, vital and animal spirits” indeed he would have
+none of; saying well that he should want as many spirits as functions,
+and that to introduce such agents as artificers of tissues is to go
+beyond experience: yet in his need of a motor for his machine he was not
+able to divest himself of the language nor even of the philosophy of his
+day; he referred the cause of the motion of the blood, and therefore of
+the heart, to innate heat[28]. In his day he could not but regard rest
+and motion as different things; and motion as a super-added quality. In
+denying the older opinion[29] that the heart is the source of motion, of
+perfection[30] and of heat, he put the difficulty but one stage back;
+and, when in the treatise on Generation he propounded his transcendental
+notion of the impregnation of the female by the conception of a
+“general immaterial idea,” we find in him realism still very much alive
+indeed. Had Harvey been content with innate heat he would have done well
+enough; but the innate heat of the blood, as he explains it, is not fire
+nor derived from fire; nor is the blood occupied by a spirit, but is a
+spirit: it is also “celestial in nature, the soul, that which answers to
+the essence of the stars ... is something analogous to heaven, the
+instrument of heaven.”
+
+In denying that a spirit descends and stows itself in the body, as “an
+extraneous inmate,” Harvey advances beyond Cremoninus, who then taught
+in the chair of Averroistic philosophy in Padua; for, says Harvey, I
+cannot discover this spirit with my senses, nor any seat of it. In
+another passage indeed Harvey warns us “not to derive from the stars
+what is in truth produced at home”; in yet another he tells us that
+philosophers produce principles as indifferent poets thrust gods upon
+the stage, to unravel plots and to bring about catastrophes: yet he
+concludes that “the spirit in the blood acting superiorly to the powers
+of the elements, ... the soul in this spirit and blood, is identical
+with the essence of the stars.”
+
+Thus the riddle which oppressed these great thinkers, from the Ionians
+to Lavoisier, was in part the nature of the “impetum faciens[31]”—of
+the Bildungstrieb. What makes the ball to roll? Does heart move blood or
+blood move heart; and in either case what builds the organ and what
+bestows and perpetuates the motion? Albert of Cologne, and at times even
+Aristotle, as we have seen, were apt to leave moving things for abstract
+motion, and to regard formulas as agents. Telesius again, the first of
+the brilliant band of natural philosophers in Italy of the XVIth and
+XVIIth centuries, was still seeking this principle of nature in the
+“form” of the peripatetics. Gilbert regarded his magnetic force as “of
+the nature of soul, surpassing the soul of man.” Galileo, although
+willing to conceive circular motion as perpetual[32], and even
+self-existent, was unable thus to conceive rectilineal motion.
+
+Harvey, then, and other naturalists of the time, including Cæsalpinus
+and after a fashion even Descartes, followed the medieval world and
+Aristotle in deriving the source of motion directly from the spheres.
+Harvey says with Dante, “Questi nei cuor mortali è permotore.” The
+attraction exercised by external supreme mind (not associated with
+matter) and its thoughts bring the material cosmos and its parts into
+regular movements. The so-called Αἰθήρ, or fifth element, “στοιχεῖον
+ἕτερον τῶν τεσσάρων, ἀκήρατόν τε καὶ θεῖον” (De Cælo, cap. 2 and vid.
+Zeller II. ii. 437), under the name of the Quintessence, played a large
+part in the speculations of Lulli, Paracelsus and other chemical
+mystics. Till Copernicus transfigured the cosmos, and Galileo and Newton
+carried terrestrial physics into the celestial world, the heavenly
+bodies were regarded as animated beings, themselves set in motion by
+spheres, and, by propagation of their intense activity from sphere to
+sphere, animating all sublunary matter, wheels within wheels, even to
+its innermost particles. Aristotle’s view (Metaph. XI.) was as
+follows:—The stars and planets are in their nature eternal essences;
+that which moves them must itself be eternal, and prior and external to
+that which it causes to be moved; likewise that which is prior to
+essence must itself be essence; and so on for a hierarchy of eternal
+essences: thus Heaven if not God is a divine embodiment (Θεῖον σῶμα);
+and this πρῶτον τῶν σωμάτων he regarded as the essence of heaven and
+stars, and the cause of animal heat in living beings. Thus the
+transition from Aristotle to the later conception of the celestial
+bodies as themselves animated beings was easy; indeed the attribution of
+intelligence to the spheres goes back at any rate to Plato (Timæus), if
+not to Pythagoras; and was the foundation of astrology. In Harvey’s time
+there was still in Rome a basilica of the Seven Angels (the planetary
+essences). Much of this doctrine Harvey probably got from Cicero (Acad.
+I. ii. 39 and De Fin. IV. 5-12; vid. Krische), who speaks of “ardor
+cœli” as the whole astral sphere. If I am not mistaken Harvey somewhere
+advises Aubrey to study Cicero.
+
+Matthew Arnold thus regrets the old illusion:—
+
+  And you, ye stars!
+
+       *       *       *       *       *
+
+  You too once lived—
+  You too moved joyfully
+  Among august companions
+  In an older world, peopled by Gods,
+  In a mightier order,
+  The radiant, rejoicing, intelligent Sons of Heaven!
+  But now you kindle
+  Your lonely, cold shining lights,
+  Unwilling lingerers
+  In the heavenly wilderness,
+  For a younger, ignoble world.
+  And renew by necessity,
+  Night after night your courses,
+
+       *       *       *       *       *
+
+  Above a race you know not,
+  Uncaring and undelighted[33].
+
+Of the origin of energy we have not solved the riddle, we have given it
+up; but instead of coming from without we know that it comes from
+within. As Mr Benn puts it, we have extended the atomistic method from
+“matter” to motion. Harvey’s contemporary, Francis Bacon, sagaciously
+guessed that heat is an expansive motion of particles; but he regarded
+heat and cold as two contrary principles. Almost in the same generation
+the brilliant John Mayow perceived a substance in the air “allied to
+saltpetre,” which passed in and out of the blood by the way of the lungs
+or placenta. “Innate heat” then gave way to phlogiston; but it was not
+till the discovery of oxygen and of the conservation of energy that we
+attained a theory of energy, and finally got rid of “matter and form,”
+and of all the thicket of metaphysics, relating thereto; through which
+in the day of Harvey no mind, however mighty, could have made its way.
+
+In the history of medieval thought we must always bear in mind that in
+neither of its two periods were theology, logic, metaphysics,
+psychology, or even physics, fully differentiated; and before the
+Arabian literature they were not differentiated at all[34]. Logic, which
+for us is but a drill, and, like all drills, a little out of fashion,
+was for the Middle Ages a means of discovery, nay, the very source of
+truth; thus every man carried his own busy laboratory within him. The
+heirs of Porphyry and Boetius had no other method in their possession.
+The dialectically irresistible was the true (κατάληψις); thus
+was man to succeed “irrefutabile aperire secretum.” To begin to think
+before beginning to learn is a hollow business, yet then logic furnished
+the theorems which experience might illustrate at its leisure; and
+nature was contemplated under philosophy. The differentiation of
+psychology began with the translation of the _De anima_[35], and the
+recognition of the relation of the percipient; hence, in the second
+period, Roger Bacon denounced the pretensions of logic, and John Duns,
+that brilliant backslider, forced them to an absurdity. Again, on the
+translation of the Metaphysics, theology parted into the studies of the
+doctrines of God and the soul, which belong to theology proper, and of
+being, in modes, kinds and universals, which belong to metaphysics.
+Medicine again was a confusion of spheres, as was theology; the care of
+the soul and the care of the body were the ends of knowledge, and their
+means contained all knowledge. Thus when we hear that Alcuin ordered the
+formal teaching of medicine, it was under the name of “Physica”; and not
+until the Physics of Aristotle came to light did the various branches of
+natural history become in their turn not only definite studies but also
+self-sufficient, aside from the art of healing. To this day the healer
+keeps the name of “physician”; and the subject at Cambridge the name of
+Physic. It is well to be reminded that although the soldiers of truth
+must be separated into several regiments, nevertheless for its
+edification the healing art must draw, directly or indirectly, on all
+natural science. Robert of Lincoln, Albert of Cologne, and all the
+Masters of that time studied medicine—that is τὰ φυσικά—as a solid
+part of knowledge, which in their apprehension was not only a whole but
+also a manageable whole. Even Francis Bacon did not realise fully the
+littleness of man in the presence of nature; he hoped that for his
+harvest man would on a right method—by, let us say, a reformed
+astrology and a reformed alchemy quickly surprise the secret of her
+processes: thus Bacon was the last of the Summists. With the
+differentiation of the several spheres of knowledge, and the perception
+of the vastness and variety of each, man has ceased to hold not the
+unity but the simplicity of nature; and he has given up summaries: the
+theologian rules no longer in metaphysics and psychology; the physician
+is no longer the only naturalist.
+
+Systems succeed each other but give each other the hand; it takes many a
+generation to kill a strong theory outright: realism, shaken by
+Roscellinus and Abélard, and scotched by Hales and Ockham, survived to
+mislead Harvey; and still it stretches its withered hand over us in the
+nursery, in the school, and in the great arguments of life[36].
+Malebranche warned us against our deceptive terminology. “Ils
+prétendent expliquer, (he says), la nature par leurs idées générales et
+abstraites, comme si la nature était abstraite.” The methods of the
+English grammar schools are even now medieval in so far as their
+teaching begins, as it mostly does still, with abstract propositions.
+
+Mysticism gathered over Germany; in Paris to this day nature is
+constrained in the artifices of logic and rhetoric; and to this day
+platonism, chiefly by the influence of the Florentine humanists and
+perhaps of the Cambridge school of Henry More, has moulded both thought
+and language in England. John Hunter conceived a “materia vitæ diffusa”;
+and but yesterday Huxley had to say of Owen’s theory of “spermatic
+force” that an artillerist might as well attribute the propulsion of a
+bullet to “trigger force.” We profess Aristotle, and we talk Plato. Even
+by men of science it is daily forgotten that the only being is the
+particular. After the Faith then, realism—the belief in principles and
+kinds having external existence, and in formative essences to be reached
+by abstract thinking—stood another adversary against natural
+knowledge.
+
+But, stronger even than realism, was a third adversity—the pride of the
+human mind. Socrates, although, for ethics and politics, he initiated
+the inductive method, was disposed to regard physical speculations as
+but a rational pastime[37], and the political and ethical study of man
+as the only serious engagement of thought. Aristotle took up natural
+knowledge as an encyclopedist[38]; he rarely verified his facts and he
+made no experimental researches[39]. The medieval church held that “ex
+puris naturalibus cognoscere” was a meagre and might be a mischievous
+amusement; and it sought to confine speculations to final causes, that
+is to the animation of the world by an intelligent Being, as man
+animates his own instruments: though, as Roger Bacon declared, final
+causes must have physical means. Even Locke thought nature to be
+hopelessly complex, and urged that ethics is the proper study of man.
+The asceticism derived from the East, disdainful of carnal things,
+brought the dualism of matter and spirit into monstrous eminence; and,
+in respect of medicine, in a few generations it turned the cleanest
+people in the world into the most filthy[40]. Moreover, are we not bound
+to admit that, as ultimate analysis was dangerous to the synthesis of
+the Faith, so for unwieldy and unstable societies in which ethical and
+political habits had not yet become engrained, to descend from
+transcendental explanations to explanations by lower categories was
+fraught with some danger to lofty and imposing standards of custom and
+conduct? Nature is too base, says St Anselm, for us to argue from it to
+God; we must argue from God to things. Analysis is a disintegrating
+function; the departure of the scientific enquirer is rather from below
+upwards: it is not only his bias but also his deliberate method to
+decline to use the discipline and the conceptions of higher categories
+until he is satisfied that those of the lower are inadequate. A certain
+natural process may not be attributed to those of chemistry until those
+of physics are proved to be inadequate; to another process biological
+conceptions and methods are denied until those of physics first, and
+then of chemistry, have been tried and found wanting; psychological
+conceptions are denied to another until in their turns the physical, the
+chemical, and the physiological are exhausted[41]; and so on: and within
+each category the same economy prevails. Now this scientific economy,
+perhaps first formulated, or effectively used, by William Ockham, in the
+phrase “entia non sunt multiplicanda”—known as “Ockham’s rasor”—is
+what is called now-a-days “materialism”; and there is no doubt that the
+method, legitimate, nay, imperative, as it is in natural science, may
+in custom and conduct engender a personal and collective habit of
+apprehending in lower categories, and even of contentment in them until
+strong reason be shown to go higher[42]. A higher order of ideas is put
+in a lower order of language; the “ὁδος εἰς τὸ κάτω” of Heraclitus. The
+danger of this attitude lies in loss of effort, of aspiration, and even
+of imagination; he must stoop on the weary oar who, knowing no
+anchorage, is ever stemming the drift. Notwithstanding is there in
+history any lesson sadder than this, that where ideals have been
+loftiest sin and failure have most abounded? a lesson from which Carlyle
+learned that “the ideal has always to grow in the real, and often to
+seek out its bed and board there in a very sorry way.”
+
+Almost to this day then the mechanical arts, presumably concerned rather
+with the lower categories, have been regarded as base; and the craft
+even of the laboratory as unworthy of great souls. Anatomy had to labour
+against antipathy both ecclesiastical and popular; chemistry and
+mechanics were gross pursuits, unless endowed with the perilous
+distinctions of alchemy and sorcery. Unfortunately this charge upon the
+dignity of man was made heavier rather than lighter by Petrarch, and by
+the later humanists of the Renascence; even in the 17th century we find
+in Oxford that Boyle was bantered by his friends as one “given up to
+base and mechanical pursuits.” As Boyle himself put it in his delightful
+way—“There are many Learned Men ... who are apt to repine when they see
+any Person capable of succeeding in the Study of solid Philosophy,
+addicting himself to an Art (Chemistry) they judge so much below a
+Philosopher, and so unserviceable to him. Nay, there are some that are
+troubled when they see a Man acquainted with other Learning countenance
+by his example sooty Empiricks” ... “whose Experiments may indeed be
+useful to Apothecaries, and perhaps to Physicians, but are useless to a
+Philosopher that aims at curing no Disease but that of Ignorance.”[43]
+
+Lord Herbert of Cherbury, who early in the seventeenth century attended
+lectures at Padua, opined that natural science deals with “ignoble
+studies, not proportioned to the dignity of our Souls.” In the
+eighteenth century indeed, grave English physicians, humanists who
+forgot how Aristotle had exclaimed that marvellousness lies in all
+natural phenomena, scorned the trivial curiosity of John Hunter
+respecting flies and tadpoles.
+
+It is part of my argument to-day to point out one evil of many which
+this prejudice has wrought for medicine. The progress of an applied
+science dependent as it is upon accessions of advantage from other arts,
+yet on the whole is from the simple to the complex; from facts of more
+direct observation to those of longer inference: and this path was the
+more necessary when the right method of inference—the so-called
+inductive method—had not been formulated, and indeed was barely in use.
+Now in medicine, from Homer to Lord Lister, direct observation and the
+simpler means of experiment have obtained their first-fruits on the
+surface of the body. In Homeric times surgery was the institution of
+medicine, and kings concerned themselves with the practice of it. From
+Erasistratus to Celsus physicians of all schools practised medicine and
+surgery as one art. Galen urges the unity of medicine, and Littré points
+out that this unity is maintained in the Hippocratic writings. In the
+Middle Ages the ascetic contempt for the body—partly Stoic, chiefly
+oriental,—the barren alliance of medicine with philosophy, and the low
+esteem of mechanical callings hid from the physician the very gates of
+the city into which he would enter. Francis Bacon says of the physicians
+of Harvey’s day, that they saw things from afar off, as if from a high
+tower; and, again, that after the manner of spiders they spun webs of
+sophistical speculation from their own bowels. Surgery, by virtue of its
+imperative methods, was kept clear of philosophy on the one hand and of
+humanism on the other; and in Paris the establishment of the Collège de
+St Côme, afterwards the Academy of Surgery, protected the higher surgery
+against the rabble of barbers. Upon the raft of anatomy and surgery,
+with some clinical aid from Salerno, positive medicine crossed the gulf
+between Byzantine compilations, monkish leechcraft, Arab starcraft and
+alchemy, and the scientific era of Harvey[44]. But physicians were not
+only blind to the great services to the whole art of medicine of the
+surgical school of Lanfranc in the fourteenth century, of Guy de
+Chauliac in the fifteenth, and of Paré and Gale in the sixteenth
+century, advances even accelerated in the seventeenth, but they ignored
+also their very origin, and even withdrew from fellowship with the
+surgeon; to our grievous harm from those days unto our own[45]. Surgery
+was excluded from the Faculty of Medicine of the University of Paris;
+and from the Royal College of Physicians of England, which was, and is
+still, enabled by charter to teach surgery, and to grant licenses
+therein. Fabricius, the master of Harvey, was fortunately as great a
+surgeon as anatomist, and such was Fallopius. In this College Harvey
+lectured on anatomy and surgery, and he left his surgical instruments to
+us; for us Caldwal founded a lectureship in surgery which has been
+allowed virtually to lapse. From the progress of anatomy which, under
+the protection of the Italian nobles as formerly of the Alexandrian,
+went hand in hand with surgery, physicians drew then little advantage;
+and so in part perhaps it came about that although Vesalius, Fallopius,
+and Fabricius broke up the traditional anatomy of Mundinus, yet anatomy
+did more even for the fine arts than for physiology; and medicine at the
+end of the Middle Ages had not recovered the standard of Alexandria.
+Against this adversity also had to contend the founder of physiology
+whom to-day we celebrate.
+
+Such were the chief adversities (vid. Appendix on Astrology) under which
+the naturalist suffered, but natural knowledge was never stifled; let us
+now turn our eyes to another point of view, from the oppression to the
+gradual enfranchisement of knowledge.
+
+Necessary for the welding of western society in the Middle Ages as was
+authority in all spheres of thought and action, and, heavy as the price
+of its inertia has been since its work was done, yet in the celebration
+of the founders of natural science it would be untrue to assume that
+before them, even in the earlier scholastic period, the indomitable
+spirit of man had lain under tyranny in silence. “Μένει τὸ θεῖον δουλίᾳ
+περ ἐν φρενί.” The way had been prepared for them. By
+the Crusades of the twelfth and thirteenth centuries fury and
+devastation were diverted in part from Europe, and hurled upon Asia;
+which soon closes up again. The naïve serenity of the Faith was gone,
+but as its great minsters arose it forgot its dangers; and the social
+bonds of orthodoxy rudely shaken were renewed. The Schools grew as great
+as the churches: Naples, Pavia, Bologna and Padua; Paris, Orleans,
+Bourges, Toulouse, Montpellier, the Sorbonne; Oxford and Cambridge. Even
+the Friars Preachers and Minors were driven to fight with the new
+weapons; first rivalling the universities, then possessing themselves of
+their chairs. But philosophy, which had lent much to the Faith[46],
+gained nothing from it; and to philosophy rather than to the Church the
+sciences looked for their principles and methods. In physics the
+experimental method was creeping into life; and the substance as well as
+the form of old controversies was changing. Thus through all these
+generations was rising a leaven of free thought, and its reforms may
+roughly be put in a twofold division, into the reform of tradition, and
+the reform of method; the reform of texts being again divisible into two
+periods—the Arabian, or second scholastic, and the modern or Renascence
+period. The chief monuments of learning were stored in Byzantium[47]
+until Western Europe was fit to take care of them. In the peace of
+Theodoric, in the peace of Charlemagne, under Alfred at Winchester, the
+arts and sciences had scarcely found breathing-time, and no sure
+establishment[48]. Cassiodorus is said to have directed the Benedictines
+of the sixth century to read Cælius Aurelianus, a Roman adaptor of
+Soranus of Ephesus; but medical lore consisted of little beyond some
+relics of the Roman schools, handed on in prose or verse compilations
+which the teacher read to his class, and explained so far as he could.
+It seems that medicine was not taught formally until so ordered, in 805,
+by Charlemagne; probably by the advice of Alcuin, the founder of the
+learned tradition at Fulda, the founder, we may almost say, of the
+neo-latin period, and some time headmaster of my own school of St Peter
+at York. The influence of the School of Salerno, relatively excellent as
+it was in the domains of clinical medicine and of public health, never
+made its way into the general stream of Western culture. Religious wars
+and persecutions had driven Greek learning eastwards, as in the case of
+the Nestorians from Antioch to Persia; Hebrew and Syrian sages[49]
+translated some classical texts, and from these again the Arabs, in
+their brief and brilliant culture, made translations; for no Arab sage
+knew Greek. The palace of the Spanish Caliphs in the tenth century was a
+workshop of translators, and a huge storehouse of books. The learned and
+ubiquitous Jew carried texts and translations from Bagdad to Morocco,
+and from Morocco to Toledo, Paris, Oxford and Cologne; but translations
+made in Bagdad in the ninth century did not reach Paris till the
+eleventh or twelfth.
+
+Among the earliest of these renderings in the West were works on
+medicine, mathematics, and astronomy, which in the Schools of Toledo and
+Cordova, by Constantinus Africanus at Monte Cassino (including certain
+treatises of Hippocrates and Galen), by Gerard of Cremona (a Salernitan
+scholar), by Michael the wizard[50], and by other hands, were converted
+into Latin; and, thus doubly disguised, and half buried in glosses which
+not only overlaid the text (“oscura glossa dov’ é piana la lettera”) but
+often supplanted it, were received with pathetic eagerness by the ardent
+scholars of the West. Aristotle, for instance, was now taught in the
+schools of the West from a Latin translation of a Hebrew translation of
+an Arab commentary upon an Arab translation of a Syriac translation of
+the Greek text[51]. Even in the sixteenth century medicine and anatomy
+were taught wholly from books; and teachers were forbidden to use other
+than prescribed books. Students began with the “Articella” of the
+Venetian physician Gregorio Volpi, a compendium of translations with
+woodcuts, published in 1491; they advanced to the Aphorisms, the Diet
+in Acute Diseases and the Prognostics of Hippocrates, overlaid with
+Syriac, Arabic and Spanish apparatus and glosses; to the Ars Parva of
+Galen; to the first and fifth Canons of Avicenna, with glosses; to the
+IXth Book of Rhazes, Honein, Aegidius Corboliensis, and perhaps some of
+the translations of Constantinus Africanus[52];—this was the lore that
+ruled the medical schools even to the birth of Harvey. Disputations
+among the students were incessant, both “inter se” and “sub cathedrâ”;
+but it is doubtful whether these did more than sharpen their dialectical
+wits. Botany, regarded by the galenists as the secret of the divine
+dispensary, was always more forward; every medical school had its physic
+garden, professors carried their students abroad to gather herbs, and
+Herbals, Dispensatoriums and Kräuterbücher were much in advance of the
+Bestiaries, mostly after Pliny’s kind, the chief of which, largely an
+original work, was that of the well-known Conrad Gesner.
+
+Some hundred years before the appearance of the Arabian Aristotle, which
+marked the second scholastic period, we have seen that the shadow of the
+Faith and the savagery of the peoples had not quelled such teachers as
+Roscellinus and Abélard, who fought for rationalism so sturdily as even
+then to threaten the ascendency of realism and the persuasion of supple
+and plausible demagogues like Anselm of Laon—that “sterile tree” as
+Abélard called him,—and actually to determine the first period of the
+Middle Ages. Happily the Arabian scholastic philosophy took its root in
+Alexandria when neo-platonism had veered towards Aristotle[53], and it
+was more uniformly peripatetic than the earliest Christian
+Scholasticism. It is one of the notes of the greatness of Aristotle
+that, even thus garbled and glossed, his power made itself felt by the
+mouths of the great Franciscans Alexander Hales, Roger Bacon, and
+William Ockham. The Organon had been expounded in Paris in 1180, and
+about the same time Alexander Neckam cited the Posterior Analytics, the
+Topics and the _De anima_; but Hales was in possession of the whole, or
+almost the whole, of a more or less corrupt Aristotle, which he turned
+upon theology.
+
+Roger Bacon was the first of the natural philosophers of the West, and
+the only eminent forerunner of Harvey and the other pioneers of natural
+science in the seventeenth century. As erudite as Albert, Bacon was more
+inventive, freer of spirit, more disposed to scientific method, better
+aware of the hollowness of authority, better aware that truth can be
+found only in free reason guided by experiment. Unfortunately as an
+author he was as dull and ineffectual as Francis Bacon was rich,
+animated and impressive. That indeed this premature renascence, without
+scientific methods or sound tradition, should have failed[54], that its
+light was but the phantom of dawn[55], is no matter for surprise; yet
+from this time forward the methods of Cyprian and Athanasius lost their
+undisputed sway. This earlier renascence made the second period of the
+Middle Ages: the period distinguished by the Arabian version of
+Aristotle; by a check to the chimeras of realism; by some liberty of
+secular knowledge, for even bishops came out of the Mussulman school of
+Toledo and arrayed themselves in vestments of Arab work decorated with
+sentences from the Koran; and again by the coming of the friars, the
+Dominican and Franciscan especially, whose influence upon the thought of
+the Middle Ages was considerable, and soon rivalled even that of the
+universities, wherein later, as we have seen, they filled some of the
+chairs.
+
+The issues of all schemes of thought led indeed as inevitably to natural
+science, as all ways to Rome. The logic and rhetoric of the learned
+Dominicans—the watch-dogs (“Domine cani”) of the Lord against the
+wolves of heresy,—culminating in the systems of Albert and St Thomas,
+by their rationalism defined, and in defining restricted, the dominion
+of the Faith. Keen defenders of the Faith recognised this danger, and
+whimpered even against Albert that “philosophiam profanam in limen
+Sanctæ Theologiæ intromiserit; ... in ipsa sacraria Christi[56].” Men
+got used to reason, and great protestants, such as Robert of Lincoln,
+had put justice and honour before ecclesiastical politics[57]. Then the
+few Greek texts found their way into the West, and in the thirteenth
+century Albert and Aquinas possessed themselves of Greco-latin
+translations of some treatises of Aristotle[58]. And in the history of
+the comparatively unlearned Friars Minors we find, as elsewhere in the
+history of thought, that mysticism was less unfavourable to natural
+science than the passionate dogmatism of Clairvaux, or the dogmatism by
+ratiocination of St Thomas; the Victorians, as Gerson after them,
+despised reason rather than feared it; they would not accept the
+services of philosophy even with its wings clipped.
+
+  “Cujus laus est ex ore infantum,
+   Hæc est sapientia”!
+
+Mysticism makes for individual religion, as with Glisson and Newton,
+rather than for a Church, as Albert was clear-sighted enough to
+foresee; if science undermines dogma, mysticism relaxes or neglects it:
+hence, as clerks only could teach, it may have been that independent
+thinkers like Hales, Roger Bacon, and Ockham entered the Franciscan
+order[59]. Indeed the science of Pietro di Abano (1250-1320), which
+laid the foundations of medicine at Padua, and inspired the frescoes of
+the Salla della Ragione, was occult and mystical.
+
+In the thirteenth century then the conflict with the provisional
+synthesis of the Faith had become imminent and menacing. The faith, the
+chivalry and the learning of the Saracens led men to feel that without
+the Church all might not be utter darkness. Albert owed as much to
+Avicenna—“the Albert of the Orient”—as St Thomas to Averroes; pagan
+sages technically damnable yet “mighty spirits,” worthy of reverence.
+Dante put in Hell, but on green meadows in an open place, lofty and
+luminous,—esteeming himself exalted by the sight of them,—not only
+Aristotle, Plato and Socrates, but also
+
+  “Euclide geometra, e Tolommeo,
+   Ippocrate, Avicenna, e Galieno,
+   Averrois, che il gran comento feo.”
+
+                         Inf. IV. 142.
+
+Universities were founded in France, England, and Italy. Frederick the
+Second protected the Arabs, and even aped them; Ghibeline indeed almost
+signified freethinker. From the Roman de Renard, from the candid
+Joinville, from Boccaccio, we may infer that the very foundations of the
+Faith were sapped; and therewith, for good or ill, both moral and
+political bonds were loosened. But the natural Science which made the
+second renascence irresistible was absent in the first: the
+consolidation of the European peoples was not compact enough for a
+rehandling of the conceptions of religion and morals, too incomplete
+even for the latitude of opinion which, in nations as in individuals, is
+apt to slacken swift and consentient action. The toleration and
+scepticism of the first renascence had causes no deeper than a general
+enlargement of experience and thought.
+
+To appreciate the influence, covert or overt, of scepticism in the
+Middle Ages we must clear the meaning of the word. Under the yoke of
+tribal custom scepticism can hardly arise, there is no place for the
+half-hearted, as all men feel alike so all think alike: scepticism
+arises when beliefs are put into formal propositions. Then, as
+experience and comparison enlarge, we detect scepticism in three forms
+or degrees: namely, doubt of a particular creed; doubt of all unverified
+propositions; and doubt of the validity of reason itself, whether in
+respect of the supernatural only or of all argument. It is remarkable
+that this last, the most devastating of the forms of scepticism, has
+come from the ranks of the faithful (Pascal, Hamilton, Mansel), who in
+resentment of the attacks of reason have turned blindly to rend reason
+herself. No civil society has been without scepticism; even in ages of
+most prevalent faith some current of doubt has flowed under the surface.
+In the Ionian philosophy the place of scepticism was only restricted in
+so far as many aspects of the subject-matter were not before those
+thinkers; for instance no Greek philosopher would have separated faith
+from reason. In the well-known words of Hippocrates, “οὐδὲν ἕτερον
+ἑτέρου θειότερον οὐδὲ ἀνθρωπινώτερον, ἀλλὰ πάντα θεῖα.” “The Greek
+boldly set up his academy by the side of the temple.” Even Protagoras
+never taught the futility of all reason, nor even the inconstancy of
+sensation which indeed is doctrine rather than scepticism. Neo-platonism
+had its scepticism in the first two forms, covering even the ground of
+the modern agnostic. Agnosticism does not deny the existence of the
+ladder, but asserts that the ladder begins and ends in the clouds; it is
+consistent therefore with ethical and practical activity. When Abélard
+said “Dubitando enim ad inquisitionem venimus, inquirendo veritatem
+percipimus,” if a sceptic, he was no infidel. Even in the thirteenth
+century it was never doubted that truth is attainable, nor indeed that
+the Faith contained the truth. The scepticism of that age was rather
+cautious and controversial than faithless, and in practice divine
+discontent rather than indifference (ἀταραξία). Pyrrhonism on the other
+hand leads to slackness of ethics; either to the insouciance of Horace
+and Montaigne, or to the attitude of the seventeenth century in Padua
+(Pomponatius) and elsewhere, when the “economy,” ironic or disingenuous,
+of allotting their several spheres to reason and dogma, if not first
+invented, became as fashionable as in the pulpits and in the
+drawing-rooms of Mayfair. “Comme savant j’ignore tout; comme citoyen je
+crois tout.” The _Hypotyposes Pyrrhoniœ_ of Sextus Empiricus, whose
+influence in the times of the Renascence was considerable, was not
+translated till the fourteenth century. The detachment of mind and
+shrewd wisdom of John of Salisbury foreshadowed Petrarch rather than
+Hume; and when John discusses what it is given to man to know, asking
+the frequent question, “Utrum contingat homini scire aliquid?”, we must
+not fall into the error of importing into his question all it connotes
+for ourselves. Likewise when James of Douay (in MS. _De anima_, quoted
+by Hauréau) roundly says, “Id quod recipitur ab aliquo non recipitur
+secundum naturam rei receptæ sed secundum naturam recipientis ... sicut
+recipitur ita patitur.... Sensus judicando de sua passione non
+decipitur” and so on, he knew no more whither this would lead than John
+Duns knew that his system must lead to that of Spinoza. That guardians
+of morals and social cohesion, from Cato to the Westminster Assembly,
+and from Samuel Johnson to Cardinal Newman, should have distrusted
+scepticism even as reserve of judgment, or indeed repelled it with
+fierceness; that priest, presbyter, magistrate and moralist have
+tolerated irony, or even license, rather than vigilant and radical
+criticism of doctrine, is intelligible; and within limits springs from a
+justifiable apprehension. For the gay and indolent sceptic veers to
+conformity, especially if he mistrust the competence of reason; while
+the active sceptic endangers the theory of his society, and of the
+sanctions upon which all moral conduct temporarily depends. Hence the
+bitter condemnation of Galileo, “Perish all physical science rather than
+one article of the Faith be lost.” Happily it is true that during times
+of transition piety and good conduct survive by virtue of “inertia,”
+that is by tradition, social pressure, custom and sense of fitness; and
+it is true that in times of transition, as in our own times, halting
+thought is quickened for a while by plenitude of emotion, and wealth of
+æsthetic impressions makes amends for poverty of ideas; yet that morals
+are based on a theory of life is a truth still deeper and more abiding,
+and this deeper truth it was the function of the “Ages of Faith” to
+root in the conscience of mankind. “Abeunt studia in mores.” As
+contrasted with Pyrrhonism, scepticism in its normal sense, while it
+declares that the conformity of notions with things in themselves cannot
+be postulated, for lack of an external standpoint of comparison, and
+while it declines to be confuted by the “regressus ad infinitum,” for,
+having repudiated first principles it is prepared to be pushed backwards
+to remoter and remoter causes, is ready nevertheless to yield to
+assurance as facts are intercalated into inferences, and as inferences
+thus stiffened by verification are found to consist with each other and
+with the general context of experience.
+
+If in the Middle Ages these various attitudes of mind were not fully
+distinguished, yet scepticism was moving variably towards the demand for
+verification on which all natural science is based; and the reaction was
+not long delayed. In the thirteenth century the culture of Omeyad and
+Abasid caliphs failed; by the end of the century philosophy was
+denounced and its books were burned; the generous and learned Frederick
+dashed himself in vain against the Papacy; Clement, the protector of
+Bacon, was dead, and during the two following centuries, in Spain at any
+rate, freedom of thought was crushed out by the Church. In the
+fourteenth and fifteenth centuries the very name of Averroes—of “the
+mad dog who barked against the Christ,” the “Averroem impium καὶ τρὶς κατάρατον”
+of Erasmus—began to signify loose life as well as free
+thought. Of this resentment there had been no trace in Albert or St
+Thomas; but Imola had begun to wonder why Dante had treated so well
+Averroes who, if the Great Commentator, was yet the father of infidels.
+The Dominicans controlled the fine arts, and for them,—at Pisa, at
+Siena, in the Spanish Chapel,—Orcagna, Gaddi, Spinello Aretino, Simone
+Memmi abased the Empire, Averroes, and the new learning far more
+intolerantly than Dante had done; and exalted the Pope, with his
+handmaids Theology, Grammar, Logic, and Rhetoric. In Santa Maria
+Novella, Memmi represents the triumph of the Dominicans in theology,
+Gaddi in philosophy; St Thomas and the Dominicans march triumphant over
+Arius, Sabellius, Averroes, and Savonarola. Thus in the Middle Ages
+Averroes appeared in two forms—first as the Great Commentator, later as
+the blasphemer and father of infidels of the Campo Santo and of Santa
+Maria Novella. In the fifteenth century the Council of Constance forbad
+the laity to teach, under a penalty of forty days’ excommunication. In
+the sixteenth, in Granada, Ximenes burnt, it is said, 80,000 books of
+Arab philosophy, as Torquemada did for Hebrew in Seville; medical works,
+however, such as the Colliget[60] of Averroes, and his Commentary on
+Galen, were spared.
+
+With the greater renascence the second period of Scholasticism, and
+indeed the Middle Ages themselves are closed. With the fall of
+Constantinople the stream of learning, driven eastwards in the first
+period of the Middle Ages, set westward again. Exiled grammarians now
+found their shelter under the protection of the “literate tyrants” of
+Italy, and with their spoil of manuscripts enriched the libraries of
+Rome and Venice. The Universities of Bologna and Padua from their
+foundation became notable for independence of thought; and, on the
+revival of learning, for their peripatetic teaching as opposed to the
+platonism of Florence, where, however, a spirit of accurate learning was
+nurtured in the deciphering and verification of texts. The political and
+commercial ambition of Venice, the Holland of Italy, of which State
+Padua was the learned quarter, and the inflow of liberal thinkers from
+other nations, kept her aloof from the fury of the Catholic reaction of
+the sixteenth century, which ruined Paris; thus in North-east Italy the
+spirit of modern science awoke sooner than in England or in France, and
+inquisitive students, both home and foreign, were attracted rather to
+Padua and to Bologna than, as in earlier times, to Paris.
+
+In so far as Scholasticism may be described as a temporary
+reconciliation of Aristotle—that is, of natural and secular
+methods—with the Faith, this end had been attained, if at all, by St
+Thomas; in St Thomas Scholasticism culminated. But no such artificial
+truce could abide; and the issue of the chief scholastic controversy was
+to be determined by one greater than St Thomas. The pilgrim to Ockham,
+sitting in its church beneath the seven lancets of its twelfth century
+window, may be solitary also in his memory of one of the greatest of
+Englishmen, who saw that light six long centuries ago; yet a child
+rather of our age than of his own. As Abélard had closed the gates upon
+the neo-platonist tradition of Alexandria, so Ockham closed them against
+realism in all its forms; and the Church cursed them both. In his own
+person the occupation of professorial chairs by Franciscans came to an
+end; Paris and the Thomists could not consistently oppose nominalism;
+Duns the Northumbrian had inflated realism into a monstrous phantasm,
+and speculative reason had to submit to the yoke of verification. Yet
+what could nominalism do for theology, or for clerical schools? The
+Franciscans for the most part had turned to mysticism, and thenceforth
+the man of science and the devotee were to work apart. Furthermore, by
+Ockham philosophy gained a new meaning, or lost all meaning. Before
+Locke, Voltaire, and Kant, Ockham demonstrated that faculties were not
+substances; and differentiated logic, psychology, and natural
+science[61].
+
+But if, as I have said, the way for Harvey and the other pioneers of
+natural knowledge was thus prepared for them, it was still, even in the
+seventeenth century, dark, rough and perilous. As in all times of
+transition, still the weight of defunct systems rolled inertly along;
+and while the new forces seemed to slumber stresses were accumulating.
+In Oxford and Cambridge the influence of Linacre, and even of Caius[62],
+seems to have been rather humanist than scientific[63]; in Oxford the
+text rather than the inspiration of Aristotle prevailed, while in
+Cambridge the platonist school, of which the charming Henry More was the
+leader, full of inspiration as it was, soon evaporated into mysticism,
+or obscurantism. Bacon and Harvey seem to have left Cambridge—for Paris
+and Padua respectively—as Locke left Oxford[64], under some
+discouragement. Of Paris the great days were over; it was in Padua that
+medicine, long degraded or disguised, was now to prove her lineage as
+the mother of natural science, and the truth of the saying of
+Hippocrates that to know the nature of man one must know the nature of
+all things. But on Harvey’s arrival, Padua, which had become the first
+school of Medicine in Europe, as was Bologna of Imperial Law[65], was
+settling down upon the lees of the once noble school of Averroes: a
+discipline which, by its original strength, by its freedom of thought,
+and by the ascendency of its professors, had withstood in the thirteenth
+century the direct condemnation of the brilliant fourth Lateran
+Council; and in the sixteenth the thunders of Trent. Padua adopted
+Averroism, in the fourteenth century, because of its medical contents;
+in the two following centuries this system was emptied of heart and
+life, but pattered and mumbled by pretentious pedants in North-east
+Italy it prevailed till the seventeenth, when after a reign of three
+centuries it was succeeded by the Cartesian. Of its phases in the
+sixteenth century Patrizzi said, “Ingens ab his philosophorum numerus ac
+successio manavit quæ in Aven Rois hypothesibus habitavit.... Inde
+dubitationum ac quæstionum sexcentorum milium numerus manavit” (Disc.
+Peripat. Vol. I. Venet. 1571; quoted by Renan, Averroès). The name of
+Averroes, “perfectus et gloriosissimus physicus, veritatis amicus et
+defensor intrepidus,” became the shibboleth of philosophers who held the
+different nature of the heavenly bodies against the “moderns” who
+alleged the identity of matter in sky and earth, and the doctrine of the
+universal against the individual soul.
+
+Yet, in spite of Petrarch’s gibes, Averroism in its spring had nursed
+Padua with the milk of natural science. Even in its decay—for all
+teaching of philosophy, as a separate study, must decay—the triumph of
+the Faith was premature; like Jansenism, the School of Averroes, effete
+as it became, held the ground for a more dangerous invasion, for
+Leonardo, Telesio, Bruno, Gilbert, Sarpi, Campanella, Galileo, and
+Harvey; for the pioneers of truth, not as consistency with tradition,
+not as an alchemical search for real essences, nor indeed as wisdom
+only; but as the verification of premises. This fuse Paracelsus fixed to
+the shell which burst upon the Faith, upon Scholasticism, upon Galenism,
+and even upon humanism, “So Christus spricht ‘Perscrutamini scripturas’;
+warum soll ich nicht sagen ‘Perscrutamini naturas rerum’?” The _Credo ut
+intelligam_ of Augustine and Anselm of Canterbury; the _Intelligo ut
+credam_ of Aquinas belonged to the past; and men began to cry “c’est
+Dieu qui nous veut hérétiques.” A criticism based upon a larger sense of
+the relativity of knowledge, and, in the sixteenth century, a new
+scepticism[66], which pierced even into the Vatican, as to the very
+possibility of knowledge of the nature of being, were preparing the way
+for new conceptions: but in ethics meanwhile men were falling either
+into the carelessness of the scoffer or into the anti-nomianism of the
+mystic. The brilliant futilities of the medieval dialectic had led to
+weariness of spirit. After vain and vexatious jugglings with the dry
+tissues of unchastened ratiocination, simplicity and even ignorance
+brought their solace.
+
+As from Florence humanism invaded English letters, so the Averroistic
+physician of Padua became known, even in Chaucer’s day, as a man of
+secular rather than of Scriptural learning. In Padua, while Galileo was
+teaching Euclid for a pittance, chairs of Averroistic philosophy were
+filled by highly paid professors, whose “rotuli” or portfolios, many of
+which now rest in the dust of the libraries of North Italy, were handed
+down from one to another in deadly routine. Virtually, however, the
+Averroistic tradition ended with a contemporary Paduan professor,
+Cremonini, lifted into fame by Harvey’s refutation in the _De motu
+cordis_, and by his own repudiation of the satellites of Jupiter, bodies
+for which Aristotle had made no provision. The coarseness and pedantry
+of the Averroistic freethinkers, whose scepticism lacked the elegance
+and sprightliness of the French, and their bastard language—mongrel of
+Greek and Arabic—revolted the humanists also: “Nihil indoctius, nihil
+insulsius, frigidius.” “Unum te obsecro,” Petrarch had said two hundred
+years before (in his invectives against doctors, whom he classed with
+astrologers, as afterwards indeed did Harvey more or less), “ut ab omni
+consilio mearum rerum tui isti Arabes arceantur atque exsulent.” “De
+medicis non modo nil sperandum sed valde etiam metuendum[67].” The
+doctors in their turn did not hide their disdain for poets. Whether
+justly or unjustly, the Doctors of Medicine were classed with
+astrologers and alchemists; the latter of whom Harvey repudiated
+frankly, not altogether avoiding a contempt for chemistry itself. Clad
+in fine raiment, with rings on their fingers and golden spurs on their
+heels, they rode tall horses, and gave themselves pompous airs. The
+humanist would rather pose as a believer than as an underbred infidel;
+the Averroist protected the license of his doctrines and manners by
+subterfuge and ironic evasion: and humanist and Averroist alike stood by
+at the burning of Bruno[68].
+
+It must not be supposed, however, that these pompous pedants had it all
+their own way, and that Medicine was not better justified of her
+children. It is full of interest for our present purpose to read in the
+preface by Thomas Junta to the Edition of Averroes (1552), “Plerique
+omnes juniores medici jam intolerabile in Arabum Mauritaniorumque
+dogmata odium conceperunt, ut ne nominandi citandive locus relinquatur;
+principes etiam Hippocratem atque Galenum habere nos prædicant.” This
+enlightenment seems to have come about in some part through the teaching
+of Thomæus Nicolaus Leonicus[69], who began to lecture, for the first
+time, from the Greek text of Aristotle (there were chairs thenceforth
+for both the Arabian and the Greek Aristotle) in 1497.
+
+It was with Galileo however that scientific research began in Padua, at
+any rate for professors; and Galileo may be venerated as the first
+modern naturalist to set the experimental method conceptually,
+coherently, and thoroughly before himself, including the deductive side
+of it. In the Harveian Oration of 1892, Dr Bridges reminded us that
+Galileo conceived of motion and energy as calculable quantities, and
+drew our attention to those most interesting experiments wherein Galileo
+applied the pendulum to measure the rate and rhythm of the pulse. Roger
+Bacon had dwelt upon experiment, but scarcely upon methodical
+verification thereby. The chemistry of Albert of Cologne was but a
+return of the curiosity of Geber of Cordova (in the ninth century). Even
+Francis Bacon saw the method less clearly than Galileo had done; and, as
+the last of the schoolmen and encyclopedists, he made a place for it
+rather in literature and philosophy: he ignored, as the scientific
+Descartes welcomed, the cardinal discoveries of Copernicus and of
+Harvey[70]. But if Galileo discovered the experimental method as a
+method, before Galileo the method was in use. Leonardo had laid down the
+rule of investigation of nature by experiment, and the aphorism that
+nature never deceives us; unfortunately his manuscripts were not
+published. In the first half of the fifteenth century Nicholas of Cusa
+weighed plants at definite stages of their growth in known weights of
+earth; and he weighed the moisture of the air. His contemporary Leon
+Battista Alberti of Genoa had done likewise. But above all the
+scientific forerunners of Galileo and Harvey stands William Gilbert,
+Fellow of St John’s College, Doctor of Medicine of Cambridge, Censor and
+President of this College, Physician to Queen Elizabeth, and Founder of
+the science of Magnetism.
+
+The century dating from the birth of Galileo to the death of Harvey was
+perhaps the most brilliant in the history of modern knowledge. The
+discovery of Greek texts had destroyed the conventional Aristotle, the
+conventional Hippocrates and Galen; since the latter part of the
+sixteenth century Greek had been taught in the High Schools, philosophy
+was born again, and men found themselves no longer the slaves but the
+kin of the great ancients. Telesius, Bruno, Campanella vindicated
+natural science and liberty of thought. Galileo taught in Padua for
+twenty years, including the time when Harvey graduated there; Torricelli
+was a pupil of the great Florentine; in 1582, on the theory of
+Copernicus, Gregory reformed the Calendar, and thus laid the axe to the
+root of astrology; by Newton terrestrial physics were established in the
+celestial spheres[71]. Malpighi, who was to fulfil Harvey’s discovery
+and foresight, was born in N.-E. Italy in the very year (1628) in which
+the _De motu cordis_ was published. In 1626 Boyle was creating
+chemistry. Anatomy, which had slept since its days in Alexandria, was
+fully awake. The Society of the Lincei was virtually founded in 1603;
+the Royal Society[72] in 1645; the Academy of France in 1656. Clinical
+teaching, initiated in Salerno and advanced by the _Consilia_
+_medica_[73], was formally established in Padua[74], to be pursued in
+Heidelberg, Leyden, and Vienna. Thus was the study “De rerum natura
+juxta propria principia” unfolded, and the “Civitas Dei” gave place to
+the “Regnum Hominis.”
+
+The “Regnum Hominis”! Yet when I look, from a respectful distance, upon
+the folios of the schoolmen, monuments, I am told, as empty as the
+Pyramids of Egypt, my mind turns back to the fiery and turbulent tribes
+which in the “deep but dazzling darkness” of the Middle Ages raged upon
+a barren land before the nations began; and I wonder if the ideas which
+awed them, swayed them, and welded them into stable societies were
+fancies as wild and sterile; and if the men who wrought them were mere
+traffickers in words. And then I wonder if we are glad that the riddle
+of the origin and issues of being, which tormented their eager hearts,
+is not solved, but proved insoluble: if we are glad that “sub specie
+hominis” the earth, no longer the nursery of eternal souls, is but a
+meteor in the sky; men and women but the gleam upon it; the sons of
+Heaven but companies of whirling stones, and the Father of Heaven an
+inaccessible idea.
+
+The scholastic philosophies became inhuman only in their decrepitude. In
+the equal eye of history, the Middle Ages teach us that the slow and
+painful travail of natural science is not to be regarded as the belated
+labour of light in the womb of darkness, nor as a mere stifling of the
+growth of the human mind by tyranny and oppression, nor indeed as the
+arming of moral forces against brute forces, but as the condition of
+time in the making of societies on a necessarily provisional theory of
+life. They teach us that conduct in state and morals depends upon a
+theory of life; that although habits and even standards of ethics may
+abide for a time after the theory on which they were built is sapped, it
+is but for a time; that if the social discipline and fruition are to be
+renewed and enlarged it must be upon a new synthesis, as laborious and
+ardent as the former, and more true. Meanwhile the business of a nation,
+whether in war or peace, is first to be quick and strong in action, to
+be rational afterwards; and swiftness and strength come of union of
+wills and singleness of heart rather than of wisdom. Even within its
+borders freedom of opinion must awaken slowly; the nation strong enough
+to suffer irresolutions in its outward policy has yet to appear. Hence
+it is that we find in ruling classes, and in social circles which put on
+aristocratical fashions, that ideas, and especially scientific ideas,
+are held in sincere aversion and in simulated contempt.
+
+The Greek was no heathen, suckled by nature and endowed only with her
+instincts; he sought in his mind to improve nature: but in the
+Renascence instincts were set as free as thought. In this passionate
+and adventurous time to preach the destruction of the animal instincts,
+or to crush them for the higher life, was a noble idea, but an
+impossible hope; the animal impulses are to be trained, not suppressed,
+and for this the help of science was to come. Yet science was to be not
+the hated rival but a necessary ally of religion. It is not within the
+province of science to answer the medieval searchings on the nature of
+being, nevertheless this threshold problem—“_der Drudenfuss auf der
+Schwelle_”—faces us still; and the world, so far as we have seen of it,
+has always demanded a provisional answer. To-day Professor James Ward
+offers it again in “Supreme Intelligence”; and Principal Caird
+(“Fundamental Christianity”) yearns for the knowledge of infinite being
+almost in the words of Plato himself:—“If,” he cries, “underneath all
+the phenomena of the world in which we live we can discern no principle
+of reason and order, no absolute intelligence and love, then indeed”
+this world is a “meaningless waste.”
+
+Gilbert Galileo and Harvey, Maxwell Hertz and Darwin have taught men not
+that the speculations of the schoolmen were over-bold, for they busied
+themselves with no speculations bolder or more transcendental than are
+our modern theories on matter, on inertia, on the ether, or on the
+origin of life, but that metaphysics by “intercalation of facts” shall
+become physics, that, in the words of Descartes, concepts, if “μετὰ τὰ
+φυσικά,” “talia sint tantum ut omnibus naturae phænomenis accurate
+respondeant,” and that notions great and small shall be subjected to
+strict verification, so far as such tests can be carried; not that men
+shall deny themselves the rapture of touching that various instrument
+they find within themselves, but that they shall endure the drudgery of
+learning to play it in harmony with the orchestra of nature; not that
+they shall desist from imagining, but that before proclaiming hypotheses
+they shall be compelled to the humble task of making an infinite number
+of little piles of facts. The art of experiment can grow only with the
+growth of science itself; instruments of precision are not provided till
+men feel the need of them. The experimental verification of concepts is
+no mere alternative path, no mere renunciation, but a new birth; a birth
+into a dull and vexatious discipline for the impatient Hegelian, whether
+of the thirteenth or of the twentieth century, who believes that, as
+mind is the product of evolution, and so the sum and store of nature,
+“in dem Gedanken selbst das Wahre ist zu suchen[75].”
+
+  “Long fed on boundless hopes, O race of man,
+   How angrily thou spurn’st all simpler fare.”
+
+The genius and courage concerned in a particular discovery or reform it
+were impossible to estimate; there is no method of determining the
+specific gravity of such adventures: moreover we are now so well used to
+the lights, bells, and soundings of the routes of scientific enquiry
+that it is hard for us to realise the pain and peril of fogs and
+contrary winds in voyages where were no such guides. Indeed no
+exposition of defects of methods can explain false habits of thought
+without a careful estimate of historical causes also, in what we may
+call the embryology of thought; for at no time were right methods of
+thought wholly wanting, or even wholly disregarded. But, as we approach
+Harvey’s own time, if on the one hand I have shown that Europe until he
+came was not ready for him, on the other hand I trust I have made it
+more easy to conceive the weight of the social systems, opinions, and
+prejudices against which his gigantic effort was made. For, brilliant as
+was the promise of the Renascence, yet in the time of Harvey, and in the
+generation immediately before him, the decay of the scholastic methods
+and the worldliness of the Church, which in the first half of the
+sixteenth century had favoured the advance of secular culture, had led
+to a reaction, not against Luther only but also against all liberal
+learning and science. In the Vatican, in the Sorbonne, in the
+Consistory, and even in the courts of justice it was proclaimed that as
+these studies make government more difficult, it were ill to encourage
+them! We have seen that the Faith, though undermined and no longer
+catholic, was aroused, and was terrible still; orthodoxy was crushing
+free thought in Italy; Alva was in Flanders, and had been visited by
+Catherine de Medici at Bayonne; in France the ruthless religious wars
+ended in the triumph of Rome; Europe was overrun by Dominicans and
+Franciscans; Trent was long pregnant with anathema. Contrary sects alike
+defied liberal culture; and four years before Harvey’s birth the wolf,
+hidden under another cloak, had torn Servetus—Servetus who shared with
+Colombo the honour of preparing the way for the founder of modern
+physiology. Even the genial conformist of the world, after his manner
+when he is scared, had turned brutal; he felt that the old conceptions
+upon which society was built for him, were suspected, and therewith
+society itself beginning to crack and split, yet he did not see that now
+by science only could society be recreated.
+
+In Italy the Cinque Cento had taken its birth and nourishment chiefly
+from Latin sources and tradition. It regarded symmetry of form and
+rhetorical modes of passion; elegance was preferred to matter, and style
+to knowledge. Such a culture had not the seeds of life in it; in the
+middle of the sixteenth century its enthusiasms waned, its philosophy
+fell into routine, its style into mannerism; but science, not
+philosophy, not the Faith, was the heir of the Middle Ages. Science is
+not of Latin but of Greek inheritance, its sources are Greek; and with
+the westward swarm of the Greeks their older boons of eloquence and
+beauty were rivalled by their newer gifts of scholarship and natural
+knowledge. In France the leaders of this school were the Huguenots, the
+flower of the nation; in the Catholic reaction of the sixteenth century
+France scorched her own bloom, and Spain was blasted for ever. The
+humanists, who at best were false friends of science and medicine, were
+no longer powerful friends; their noble rage was suppressed by chill
+penury, and many of the most learned and zealous of them were vagabonds
+in Europe. Rhetoric, fine art, and even philosophy may flourish in
+slavery, learning and science can breathe no air but that of freedom;
+and freedom of learning was quenched in the blood of the Massacre of St
+Bartholomew. In 1540 had been founded the Society of Jesus, which then
+as now used science and learning, not as sources of truth or tests of
+conduct, but as tactics; putting on indeed the habit of the scholar, but
+only the more effectually to control research. Two years later the
+Spanish Inquisition was set up in Rome; and its shadow fell even over
+Venice, which abased itself to the imprisonment of Bruno. The great
+Venetian printers, some time reduced to the publications of decadent
+Averroism (p. 97), to avert bankruptcy had to print breviaries. Henry of
+Navarre, deserting Du Plessis Mornay, D’Aubigné, and De Thou, turned not
+only Roman Catholic but also ultramontane; and, if with his accession
+the Terror had ceased, social and political ostracisms, tests, and
+disabilities stifled all generous culture.
+
+The great University of Paris, which throughout the Middle Ages had been
+the heart of Christendom, the centre of its life and heat, which in the
+fourteenth century was at its splendid culmination, and which had
+meddled with no feeble hand even in the State, was waning even in the
+fifteenth century, when France was devastated by war and rapine and her
+schools were emptied. This University, which had savagely condemned Joan
+of Arc, and sent Nicholas Midi to preach a solemn sermon at the stake,
+“pro Joannæ salutari admonitione et populi ædificatione,” in the
+sixteenth century came out of the religious wars stripped of its
+endowments, and deserted by its students; its curriculum was crassly
+conservative, its philosophy buckram, its theology a petrifaction; its
+forty colleges were closed, grass grew in its courts, and its public
+disputations were abased to the decorous apostasy of the freethinker.
+Montpellier was dominated by realism (vitalism). Francis Bacon had done
+better to have gone with Harvey to Padua; almost in the year of the
+publication of the _De motu cordis_, the Parliament of Paris issued an
+edict that no teacher should promulgate anything contrary to the
+accepted doctrines of the ancients.
+
+Such was the check which, after the death of Leo the Tenth, had befallen
+liberal studies: no Bembo now secretly protected freethinkers; in
+Central Europe the generous Maximilian the Second, who died in 1576
+while counselling tolerance in religion to Henry the Third, was followed
+by reactionary emperors. In England no doubt the sky was clearer; in the
+Salamis of modern civilization the malign pretensions of Philip were
+shattered, and the “spacious times of Elizabeth” were glorious in their
+outburst of freedom, adventure, and culture, Medicine, however, sinking
+in the sixteenth century, fell, in the seventeenth, into that reproach
+which has become a byword. All superstition was not within the Faith.
+When Harvey’s discovery, like an earthquake, had broken up galenism and
+other outworn sophistries, his masterly work stood forth not only
+against long-winded dialectics on ars sphygmica, critical days,
+coctions, derivatives, revulsives, and like abstractions bequeathed by
+realism and uncritical subservience to texts, but also against a more
+lurid background of folk superstitions—of vampires, witch-burning,
+magic, cabbalism, astrology, alchemy, chiromancy, and water-casting. For
+medicine, says Bacon, is associated with charlatanry as Aesculapius
+with Circe. In physics, terrestrial and celestial, Galileo, persecuted
+as he was, had some current with him and before him; Copernicus had
+preceded him, Kepler was beside him: but in physiology the waters had
+closed upon the path of Galen as upon the wake of a great ship; the
+anatomists, themselves galenists, had given Harvey little help; and the
+share of Servetus[76], Colombo, and Fabricius was but small in the
+discovery of the central fact of the science, and of the method which
+opened the way to Pecquet and Aselli, to Glisson, to Steno, to Wharton
+and Willis, to Haller and Bernard. Harvey’s discovery was the first step
+to a transfiguration of medicine; and though after Harvey there arose
+much false physiology and therewith again great floods of medical
+sophistry, yet from his time medicine has had to reckon with physiology,
+the only source of scientific nosology and therapeutics.
+
+We celebrate the memory of great men in the certain hope that in their
+children they will be born again.
+
+
+
+
+APPENDIX.
+
+ASTROLOGY.
+
+
+Besides those greater preventions which lay in the very structure and
+organised conceptions of society in the Middle Ages, the student of
+natural science was thwarted also by many lesser, which could not find
+place in this oration. Among the chief of these was judicial astrology,
+which supplanted and degraded the art of medicine.
+
+It is difficult to carry the imagination into a time when the heavens
+were conceived as an animate and divine being[77], the heavenly bodies
+as active and intelligent parts of it, and the whole set not in
+illimitable space but around man and his home, and waiting upon him
+(vid. p. 47); yet without such an effort we cannot realise the ancient
+place and dominion of astrology. Such a possession when in its strength
+must have enthralled the human mind; and it abode tenaciously with the
+first scientific conceptions of celestial phenomena, even in the
+thoughts of the enlightened. Tycho Brahe, for many years of his life,
+was an adept; and even Kepler saw portents in the skies. When we read
+the doctrines of Aristotle on the celestial beings, it is indeed
+somewhat strange that upon him, upon Plato, and upon the Ionians, the
+“judicia astrorum” had even less hold than the mythology: so truly
+poised, even in the infancy of science, were the cosmic speculations of
+this wonderful race. The Romans by their Etruscan tradition held to
+astrology, chiefly derived from Chaldea and Egypt, and by them it was
+mixed with grosser folk magic; yet even in Rome there were many to
+repudiate it, not only such Grecian spirits as Cicero but also such
+Romans as Juvenal; as in Harvey’s time it was assailed by the irony of
+Pascal and of La Fontaine. Even in the twelfth century John of Salisbury
+had not failed to turn his light artillery upon astrology.
+
+This art of forecast naturally attached itself closely to that of
+medicine; and in its decrepitude still it clung to medicine like a
+parasite. And as parasites in the field of pathology, so astrology
+brought with it other noxious superstitions and follies even worse than
+itself. In England it survived till the witty attack of Swift killed
+Partridge and astrology together; yet to this day many of its notions
+are embedded in our common speech.
+
+Ptolemy among his good services did one ill to mankind by his
+_Tetrabiblon_ or “Quadripertit,” an astrological treatise which was
+current with the Almagest in the Western Schools. This authoritative
+treatise, together with the Aristotelian conception of the heavens, gave
+to astrology the aspect of a regular science with its own principles and
+methods; a science admired and even courted by princes. As Frederick
+the Second and Charles the Fifth would learn of the stars the moment to
+take the field against their foes, so the medieval physician sought
+their countenance in the letting of blood or in the exhibition of a
+clyster or emetic. The Church, abhorring all concurrent dominion, and
+justly abhorring this bondage of the judgment of God and of the will of
+man, almost alone withstood the astrologer. If the doctors of theology
+did not know how to deny the power of the stars in the material cosmos,
+they vehemently denied it in the world of the spirit. “Et ideo pro certo
+tenendum est,” says Aquinas, “grave peccatum esse circa ea quæ a
+voluntate hominis dependent judiciis astrorum uti.” Of the priestly
+assailants of astrology, the most attractive to us for his wit, sagacity
+and sound knowledge, was Nicholas Oresme, sometime Bishop of Lisieux
+(died 1382), translator of the _Ethics_ and other Aristotelian
+treatises, as he is portrayed for us by Hauréau (_Dict. des Sciences
+philosophiques_, art. Oresme) and M. Charles Jourdain. The fun of the
+thing is that the outspoken Oresme was the counsellor, the friend, and
+even the tutor of that notable astrologer Charles the Fifth; a story as
+honourable to the prince as to the subject. As Charles issued from the
+chambers of his astrologers the discourses of Oresme must have made him
+a little uncomfortable, especially when Oresme records the misfortunes
+of astrologising captains, such as Alphonso king of Castille, of whom,
+says he, I have heard nothing notable except that he cast horoscopes,
+was unfortunate in war, and neglected his kingdom; or such again as
+James the king of Majorca, a passionate astrologer, who on the dictation
+of the stars made a sortie against Peter of Aragon, and never came back
+again. It is all very well, says Oresme, for kings to know somewhat of
+the noble science of astronomy, but they must be content to hear of it
+in talk with sages, and not to spend upon the stars time and care which
+they should devote to the interests of their people. “Mesmement tele
+chose (astrology, necromancy, geomancy and “quelconques tels ars”) est
+plus périlleuse à personnes d’estat, comme sont princes et seigneurs
+ausquelz appartient le gouvernement publique. Et pour ce ay je composé
+ce livret en françois afin que gens lais le puissent entendre, desquels,
+si comme j’ay entendu, plusieurs sont trop enclins à telles fatuités. Et
+autres fois ay je escript en latin de ceste matière” etc. In spite of
+the Bishop of Lisieux, astrology at the end of the fourteenth century
+reached the summit of its influence and popularity. In the course of his
+argument Oresme gives an admirable account of the nature of
+hallucination and the parts it may play in perverting knowledge; not
+only so but he explains also the fallibility of the normal senses in
+respect of organic defects, of media, of false inference, of
+association, of imposition of the imagination, and so forth. Under such
+circumstances, he says, a mystic might conceive himself to have been
+visited by an angel!
+
+
+FOOTNOTES:
+
+  [1] To bring the oration within the time allotted, this portion, and
+  the paragraphs on astrology added as an appendix, were omitted. For
+  the same reason the paragraphs on scepticism (p. 82) were also omitted
+  but by inadvertence have held their continuity in the text. It is
+  customary to print the text as delivered; and this must be my excuse
+  for the cumbrous apparatus of notes, much of which might have been
+  taken into an enlarged text. The notes are necessary to fortify
+  statements which orally may pass, but do not satisfy a reader.
+
+  [2] The “humoral doctrine” is imperfectly known. The four _elements_
+  are earth, water, air, fire; the four _qualities_ are hot, cold,
+  moist, dry; the four _humours_ are blood, phlegm, yellow bile, black
+  bile. By permutation of these were obtained the endless elaborations
+  of the galenist doctrine which for many centuries blinded Europe not
+  to the truth only, but also to the clinical and physiological methods,
+  example, and attainments of Galen himself.
+
+  [3] “Nec ullum satis validum imperium erat coercendis seditionibus
+  populi, flagitia hominum ut cæremonias deum protegentis.” Tac. Ann.
+  III. 60.
+
+  [4] It must not be supposed that the idealism of Plato and the
+  mysticism of the East were alike, or even akin. Plato was a Greek; his
+  mind, as we appreciate such qualities, was sane and lucid: he had no
+  yearning whatever for absorption in the Infinite; but rather, like
+  Aristotle, for a noble life.
+
+  [5]  “Oftener on her knees than on her feet
+        Died every day she lived.”
+                                Macbeth IV. 3.
+
+  [6] I see in recent reports of Egyptian exploration that at
+  Oxyrhynchus Plato was represented with curious persistence by the
+  Phædo and the Laches; and these treatises appear in the early Fayyum
+  papyri.
+
+  [7] A few axioms, collected from the physical and metaphysical
+  treatises (perhaps by Cassiodorus from Boetius), were current from an
+  early date. The translations of Boetius must for a time have lain in
+  some neglect?
+
+  [8] Alcuin had but a translated abridgment or summary of the
+  Categories, attributed to Augustine; and in a MS. of the tenth century
+  we find no more than this. Boetius’ full translation of the Categories
+  was not current till the end of this century, when all the logic of
+  Aristotle was in the hands of the doctors. In the earlier Middle Ages,
+  as in the writings of John of Salisbury and of William of Conches, we
+  hear even more of Boetius than of the master himself. Virgil, Seneca
+  and Cicero also were the sources of much of the culture of this
+  period. Alcuin was a grammarian; he taught from Priscian and Donatus,
+  improved the eighth century Latin, and probably made Virgil and Cicero
+  known in Gaul and Britain. He knew but little Greek, as we infer from
+  his quotation of the names of the Categories. Erigena knew more Greek
+  and carried some of it to the Court of Charles the Bald. See note 2,
+  p. 65. Alcuin probably did not visit Ireland. Boetius had translated
+  also both Analytics and the Topics.
+
+  [9] Yet Roger Bacon seems to have apprehended both progress and the
+  relativity of truth. Before Newman, he declared that God makes no full
+  revelation but gives it in instalments; and in another passage he
+  speaks of the judgments of Aristotle, and of other great teachers,
+  “secundum possibilitatem sui temporis ... aliud tempus fuit tunc, et
+  aliud nunc est”—a remarkable saying. Of the Saints he says “they had
+  their time, we have our own.” Vid. also note, p. 80.
+
+  [10] Modern French historians do us the honour of annexing our heroes;
+  in respect of the scholars of the Middle Ages M. Charles Jourdain has
+  set, or followed, this example. John of Salisbury, that charming child
+  of renascence, born out of due time, was first claimed as a Frenchman;
+  then, as this “provenance” becomes untenable, he, and others, are
+  called “Anglo-French.” The University of Paris in the XIIth century
+  was no more France than Rome was Italy. In our sedentary arable life
+  we do not realise the nomad habits of our forefathers. Edward the
+  First would inhabit six distant castles in less than as many weeks;
+  indeed Great Britain itself was then no island. The heroes, nay the
+  armies, of Froissart’s Story fly about the world in their seasons like
+  migrating birds. All keen scholars of the West went to the University
+  of Paris, the daughter of kings and popes, and the intellectual centre
+  not of a strip of kingdom between Anjou and the Empire, but of Europe
+  itself. And of the scholars of Paris, Englishmen were, we hear, the
+  most turbulent, but the boldest in argument and the most greedy of
+  learning; this last character perhaps it is that now-a-days looks
+  least English. Kuno Fischer admires the procession of great Englishmen
+  down the highway of medieval thought, from Erigena to Francis Bacon.
+  John was born at Salisbury, spent thirteen of his early years at the
+  University of Paris, the best of them in the stormy service of Thomas
+  Becket, and but the last five as Bishop of Chartres. We do not call
+  Lanfranc an Englishman, nor even Adrian the Fourth an Italian.
+
+  [11] The name Realism has been improperly used—improperly because
+  previously engaged—to signify the conception of an objective world,
+  from the play of which our impressions arise, and of which our
+  impressions are, if not likenesses, at any rate symbols, as opposed to
+  the name “Idealism” which, with a like violence, has been turned to
+  signify the conception that the universe of things is but a picture
+  produced by the evolution of the phenomena of consciousness. The
+  proper names for these opposite conceptions are of course Noumenalism
+  and Phenomenalism. Realism proper as a habit of thought, whatever may
+  have been its provisional uses, is now a mischievous habit;
+  noumenalism is a harmless amusement.
+
+  [12] Roscellinus, the Roger Bacon of the eleventh century, learned,
+  rebellious, lucid and heroic, withstood the Church for philosophy as
+  did Bacon in the thirteenth for natural science. It would seem that in
+  heroism at any rate Abélard was below his master.
+
+  [13] Vid. p. 50.
+
+  [14] The opponents of the theory of the Mass are apt to charge the
+  Roman Church with the proposition that therein the elements are
+  changed into “real” flesh and blood. In the nineteenth century, as in
+  the thirteenth, this Church has not, I believe, determined whether the
+  “real” substance be corporeal or incorporeal, separable or inseparable
+  from the sensible properties of things; whether in a word it be
+  something or, as many of us would say, nothing at all. Spinoza
+  regarded “substance” as intelligent and extended.
+
+  [15] Thus it was difficult to claim his authority for one side or the
+  other. The metaphysical treatises were not known till the later part
+  of the twelfth century. (See p. 75, note 2.) At the outset of the
+  Physics Aristotle discusses what nature is in itself, and defines
+  first elements; in the Second Analytics on the other hand, although
+  thinking of science as deductive and expository, he strongly opposes
+  the primary existence of ideas, though these are predicable of many
+  individuals. By excess of logical formations, the division of
+  properties, the use of such terms as “γένη ὑποκείμενα,” &c. &c., he
+  laid himself open to misconception, and so was readily platonised by
+  his commentators. It would seem indeed that for Aristotle universals
+  were not merely propositions obtained by negation of individual
+  variations, but something more active. A νόησις became somehow a
+  ποίησις; e.g. “ἡ δημιουργήσασα φύσις.” His position may be appreciated
+  briefly thus:—In the Categories Aristotle speaks of individuals as
+  primarily existent, while in Met. Z, and elsewhere, the primary
+  existent is the form. The inconsistency is, however, more apparent
+  than real; for in the Categories it is the individual so far as he
+  represents his natural kind which is primarily existent, whilst the
+  form which in the Metaphysics is primarily existent occurs only in the
+  individual. This terse appreciation is one of my many debts to Dr
+  Jackson.
+
+  [16] It were almost to be desired, for our own lucidity, that we could
+  get rid of the words cause and law, and use language significant of
+  order only. Aristotle’s influence has weighed heavily in favour of
+  studying “Causes” rather than sequences; thus it is hard to clear our
+  own minds, and impossible to clear the minds of our pupils, of a
+  genetic notion of causation—that an effect comes, as it were, from
+  the womb of its causes. Even Ockham taught as if causes contained
+  their effects. Mr Marshall (West. Rev. loc. cit.) is of opinion that
+  Roger Bacon by his “non oportet causas investigare” intended to
+  confine scientific thought to the relations of phenomena.
+
+  [17] As St Anselm put it, “Participatione speciei plures homines sunt
+  unus homo.” Out of humanity individual men proceed.
+
+  [18] Vid. p. 32, note.
+
+  [19] Erigena, “the miracle of the Holy Ghost”; a figure of almost
+  mythical grandeur, arising in the far west, full of new learning, of
+  lyric enthusiasm, and heroic courage. He did not protest, with St
+  Columba, against the Papacy only; he protested against authority, and
+  he protested against mighty ignorance; neither of which should
+  withstand the persuasion of right reason. “Ratio immutabilis ... quæ
+  ... nullius auctoritatis adstipulatione roborari indiget.” His works
+  were proscribed and burned.
+
+  [20] The one, to which alone Parmenides and Melissus attributed
+  existence, was a material although an incorporeal unity. We must
+  beware of accepting “matter” in the current dualist sense; for
+  Aristotle himself ὕλη was hardly distinguishable from δύναμις.
+
+  [21] With every allowance for the phases of church and school in
+  successive academical generations it seems strange that in 1209
+  Aristotle should have been forbidden under excommunication, and in
+  1231 restored to such favour that for the disciples of Albert and St
+  Thomas the master almost attained the authority of a father of the
+  church; the explanation probably is that “Aristotle” meant for a time
+  the paynim interpretations of Toledo, particularly of the Physics (the
+  Metaphysics were not translated from the Greek till about 1220); and
+  meant not this only, but also liberal quotation and incorporation of
+  the writings of Arab philosophers. To show how learning, even in the
+  University of Paris, lay under ecclesiastical control, some extracts
+  from the Edicts of the Synod of Paris and of Gregory the Ninth may be
+  cited in illustration:—After directing that “Corpus magistri Amaurici
+  extrahatur e cimiterio, et projiciatur in terram non benedictam” the
+  Synod farther orders that the “Quaternuli [“Quaternuli” is translated
+  by Ducange, Quatuor quartæ chartæ, seu octo folia: i.e. the octavos]
+  magistri David de Dinant, ... afferantur et comburantur; nec libri
+  Aristotelis de naturali philosophia, nec Commenta legantur Parisiis,
+  publice vel secreto. Et hoc sub pœna excommunicationis
+  inhibemus.... De libris theologicis scriptis in romano, præcipimus
+  quod episcopis diocesanis tradantur, et Credo in Deum et Pater noster
+  in romano, præter vitas sanctorum.” The order two years later
+  confirming these prohibitions differs but in form. Even the Bull of
+  Gregory in 1231, relieving the schools of this proscription, says, “Ad
+  hæc jubemus ut magistri artium unam lectionem de Prisciano et unam
+  post aliam ordinarie semper legant, et libris illis naturalibus, qui
+  in concilio provinciali ex certa causa prohibiti fuere, Parisiis non
+  utantur, quousque examinati fuerint, et ab omni errorum suspicione
+  purgati.” The pope adds paternally, “Magistri vero et scholares
+  theologiæ, in facultate quam profitentur, se studeant laudabiliter
+  exercere, nec philosophos se ostendant, sed satagant fieri theodocti:
+  nec loquantur in lingua populi, et populi linguam hebræam cum azotica
+  confundentes” [azotica or arethica means the profane tongue (Ducange);
+  Hebrew being a Sancta lingua]. The pantheistic outburst of the later
+  twelfth century, although deriving in part from Erigena, was probably
+  fed by the commentary of Alexander of Aphrodisias. This commentary was
+  widely read in Arabic and Arab-latin translations, the latter of which
+  were made, as we know (v. A. Jourdain, p. 123 and seq.), by Gerard of
+  Cremona (d. 1187). Alexander’s more material interpretation of ὕλη
+  involved the return of All into God; hence no resurrection, no
+  future life. In his followers these doctrines become grosser and
+  grosser, and, fused with other Arabian doctrine, prepared for and
+  afterwards strengthened the Averroism of Padua, in the XV-XVIth
+  century, in which system it was taught that the universal soul,
+  dipping for the time into the individual man, is at death resumed into
+  the universal soul. This virtual denial of personal immortality was of
+  course bitterly resented by the Church. (Vid. p. 68, note.) Thus from
+  the thirteenth century onwards pantheistic infidelity survived and
+  even defied the menaces and the punishments of the Church.
+
+  [22] Both Albert and Aquinas were inconsistent. Hauréau points out
+  that St Thomas was a vitalist in physics, an animist in metaphysics, a
+  nominalist in philosophy, and a realist in theology. “Il a cherché à
+  reconcilier des morts (i.e. Plato and Aristotle) qui, toute leur vie,
+  se sont contredits.” But even sceptics contradict themselves; and it
+  is fair to add that St Thomas pushed universals back to immanence in
+  the Divine mind. For Plato the ideas are thoughts of universal mind;
+  for Aristotle God, or Nature by its thoughts or plans determines the
+  lines of phenomena: thus Plato and Aristotle were more alike than
+  Thomas knew, or Hauréau admits. There was no such thing of course as
+  The Scholastic Philosophy, of which I read again but the other day in
+  a modern work. Scholasticism is the very various teaching of the
+  schools of the XI-XVth centuries; though its general tendency was to
+  search rather into the origin and nature than into the functions of
+  being. The philosophy of the thirteenth century on the whole was
+  eclectic;—though perhaps eclectic by confusion rather than by
+  reconciliation. The rule of authority prevented an appreciation of the
+  relative values of opinions; the recognised authorities were equally
+  true, and had to be dovetailed together somehow. Critical
+  interpretation had not begun.
+
+  [23] The objection should not lie against hair splitting, for thought
+  cannot be too penetrating; but against the splitting of imaginary
+  hairs.
+
+  [24] M. Charles Jourdain thus describes the procession of Rector,
+  doctors and disciples of the University of Paris at the beginning of
+  the fourteenth century. At the end of this century its decay began.
+
+  [25] For Aristotle the principle of individuation was matter and form
+  (vid. note, p. 33); for Averroes it was form; for St Thomas it was
+  matter. For all “vitalists” the identity of form, soul and life is
+  essential; thus Stahl regarded soul as bestowing on body all activity,
+  as determining all vital functions. In Aristotle ψυχή is
+  untranslatable = anima and animus—soul and vital principle. Πνεῦμα
+  again in various writers may mean anything, from air to spirit or
+  other essence; cf. Arist. De Generat. An. II. 3, and the “aura” of
+  Harvey, and even of Haller in the same connexion as the fertilising
+  element.
+
+  [26] Not for all, not for the greatest of them! Aristotle, in vain,
+  warned later generations against prophesying what seems likely,
+  instead of looking to see how things come about:—“οὐκ ἀληθῆ λέγοντες,
+  ἀλλὰ μαντευόμενοι τὸ συμβησόμενον ἐκ τῶν εἰκότων, καὶ προσλαμβάνοντες
+  ὡς οὕτως ἔχον πρὶν γινόμενον οὕτως ἰδεῖν.” (De Gen. Anim. IV. i.)
+  “Croire tout ce qu’on rêve,” if useful and possibly admirable in its
+  day, in “neo-Hegelians” is a little stale.
+
+  [27] Thus, in ascending from general to more general, in the most
+  general will be sought unique and perfect being; the primary cause and
+  sole object of science—the αὐτοζῷον of the Alexandrians:
+  whereas by successive eliminations utter abstractions would become
+  utter vacuity. To such realists all subordinate beings are integral
+  parts of the primary being. It would serve no useful end here to
+  analyse these doctrines, or to indicate the pythagorean or stoical
+  elements of them; for platonists and realists had their schools and
+  degrees of subtlety; and Plato himself was inconsistent. Some brought
+  secondary agents—demiurges or angels—into more creative activity,
+  others carried creative reason back to the ideal good, and so on.
+
+  [28] Held by Gilbert, and attributed to Averroes; but older than
+  Averroes. In turning to Francis Bacon’s hypothesis I read (Ed. E. and
+  S. II. 263. Hist. Densi et rari—chapter, “Dilatationes per spiritum
+  innatum se expandentem,” a Paracelsian sort of chapter) “Pulsus cordis
+  et arteriarum in animalibus fit per irrequietam dilatationem
+  spirituum, et receptum ipsorum, per vices.” The muscular quality of
+  the heart was known to Galen, forgotten, and rediscovered. Spiritus
+  vitalis, for Bacon, was “aura composita ex flamma et aere” (cf. Æn.
+  VI. 747). Glisson has been fortunate in two generous judges, in Haller
+  and Virchow; it would ill become me to depreciate a distinguished
+  Fellow of my own College, and as a clinical observer Glisson had
+  considerable merits; but as a physiologist he was sunk in realism. He
+  was happy in the invention of the technical term “irritability,” but
+  for him this virtue was as metaphysical an essence as the vital
+  spirit; his prime motor was not physical. As a philosopher I fear the
+  independent reader of his works will find him fanciful and wearisome.
+
+  [29] Herein Harvey’s sagacity brought him towards the truth. “Air,” he
+  says in the _De generatione_, “is given neither for the cooling nor
+  the nutrition of animals ... it is as if heat were rather enkindled
+  within the fœtus (at birth) than repressed by the influence of the
+  air.” Boyle (who says that he worked under the influence of Harvey’s
+  discoveries) carried this matter forward by most interesting and
+  sagacious experiments with his air-pump. For the layman, I may add
+  that (to speak generally) before Harvey’s time respiration was
+  regarded not as a means of combustion but of refrigeration. How man
+  became such a fiery dragon was the puzzle!
+
+  [30] Perfection was attributed, not only by medieval philosophers but
+  also by Plato and Aristotle, to the circle. Circular movement was
+  therefore the most perfect, and therefore again must be that of the
+  planets. This is a good illustration of the almost necessary tendency
+  in the earlier excursions of thought to equate incoordinates, and to
+  fill gaps in reasoning from alien sources.
+
+  [31] Not only movement but also formative activity. The ἀρχὴ τῆς
+  κινήσεως is the efficient cause of Aristotle; for him final causes
+  direct motion—the οὗ ἕνεκα. Thus dialectic was taken for dynamics.
+  Even Kant confused cause and effect with reason and consequence in
+  hypothetical propositions (Benn). Caverni (Storia del methodo
+  sperimentale in Italia, 1891-5) says that Jordanus Nemorarius (of
+  Borgentreich near Warburg, d. 1236) made the great advance of
+  extending the static physics of the ancients to establish dynamics;
+  and that he introduced the word “moment.” In a cursory survey of the
+  two works of Nemorarius which we have in Cambridge I have not been
+  able to verify this statement; the notion I have found but not the
+  word itself.
+
+  [32] Vid. p. 44, note 2.
+
+  [33] And Goethe:
+
+        “Wie Himmelskräfte auf und nieder steigen
+         Und sich die goldnen Eimer reichen!
+         Mit segenduftenden Schwingen
+         Vom Himmel durch die Erde dringen,
+         Harmonisch all das All durchklingen.”
+
+                                 Faust I. i. 1.
+
+  In many of the older poets the same motive is found. Vaughan, a
+  contemporary of Harvey, says:
+
+       “And round beneath it Time in houres, dayes, yeares,
+        Driven by the spheres
+        Like a vast shadow moved.”
+
+  The only celestial messenger who has discussed this matter with
+  mankind was something of an obscurantist. Vid. Paradise Lost, Bk.
+  VIII.
+
+  [34] The word “philosophy” in the Middle Ages signified the pursuit of
+  knowledge of things human and divine, and of the causes of them. It
+  was often divided into Physics, Ethics and Logic. Cicero, to some of
+  whose writings I have referred as then popular, says (in many
+  passages, e.g. in the Acad. I. and II.) that philosophy “Prima rerum
+  naturam scrutatur, secunda animum componit, tertia bene disserendi
+  rationem docet.”
+
+  [35] Vid. note, p. 77.
+
+  [36] The judicious reader will remember in the Letters to Martinus
+  Scriblerus the “familiar instance” of the jack. “In every roasting
+  jack there is a meatroasting quality which neither resides in the fly,
+  nor in the weight, nor in any particular wheel of the jack ... but is
+  inherent in the jack.... As sensation, reasoning, volition &c. are the
+  several modes of thinking, so roasting of beef, roasting of mutton,
+  roasting of pullets, geese, turkeys &c. are the several modes of
+  meatroasting.... And as the general quality of meatroasting, with its
+  several modifications as to beef, mutton, pullets &c. does not inhere
+  in any part of the jack, so neither does consciousness” &c. &c.
+
+  [37] Or indeed he shrank from them, as the continual exclusion of
+  divine interference seemed to him a starvation of moral growth. Vid.
+  Phædo, 96, the interesting passage beginning “ἐγὼ γὰρ νέος ὢν
+  Θαυμαστῶς ὡς ἐπεθύμησα ταύτης τῆς σοφίας ἣν δὴ καλοῦσι περὶ φύσεως
+  ἱστορίαν κ.τ.λ.”
+
+  [38] The encyclopedic method, followed by Francis Bacon, and
+  perpetuated even in the nineteenth century by some German
+  metaphysicians, was not the mere collection of matter from any or all
+  quarters, after the manner of Pliny; nor again mere omniscience; but
+  was the demonstration of a cosmical theory from all departments of
+  knowledge. When knowledge was a theological philosophy theologians
+  were bound to supply thinking men with “Summæ,” or comprehensive
+  applications and casuistries of it. Hugo of St Victor (d. 1141) and
+  Robert Pullen (d. 1150) were the first scholastic Summists.
+
+  [39] Aristotle made many experiments, but experiments are not
+  necessarily verification; and for the most part his were not. It is
+  not experiment which makes science but the experimental method. Dr
+  Payne, in the Harveian Oration of 1896, reminded us that among the
+  ancients the forerunner of Harvey in this method was Galen.
+
+  [40] Those who are curious in manners will observe that during the
+  last few years the medievalising clergy in England have discarded that
+  fair linen which in the elder clergy was the emblem and the example of
+  cleanliness.
+
+  [41] “Nemo psychologus nisi prius physiologus,” said Johannes Müller.
+
+  [42] For example, one man, fixing his eyes on a sublime ideal of
+  holiness, confesses on his knees that he is a miserable sinner;
+  another, surveying men about him, repudiates this imputation: it is a
+  matter of parallax.
+
+  [43] Boyle, Essays, 2nd Ed. 1669, p. 119. In his Edition of 1661 Boyle
+  speaks of the discovery of Harvey “our English Democritus” (published
+  1628) as commonly accepted. Whereby, he says, other “very plausible
+  and radicated opinions” (the old schemes of the circulation) ... “are
+  generally grown out of request.”
+
+  [44] Haeser says (vol. II. p. 433): “Einen sehr bedeutenden Aufschwung
+  nahm die Chirurgie im Zeitalter Harvey’s bei den Engländern, unter
+  denen bis dahin kein Wundarzt ersten Ranges aufgetreten war. Nach
+  kurzer Zeit erlangten die englischen Chirurgen durch allgemeine
+  Bildung, gründliche Kenntniss der Anatomie, und praktische Gelegenheit
+  ein entschiedenes Uebergewicht über die bis dahin herrschende
+  französische Schule.” Cf. also Daremberg, Hist. et Doct. vol. I. p.
+  281 et seq.
+
+  [45] In the Medical Magazine (May, June, July, August, and Sept. 1899)
+  is an interesting essay by Mr D’Arcy Power, “How Surgery became a
+  profession in London.” Mr Power tells us that a scheme for the unity
+  of the medical profession in London was set on foot in 1423, when the
+  surgeons were the more highly organised body. A “Rector of Medicine”
+  was indeed elected (Master Gilbert Kymer). It is not known how long
+  the conjoint faculty of medicine and surgery lasted in London; but
+  unhappily for our profession it seems to have been dissolved in a very
+  few years.
+
+  [46] This relation was somewhat one-sided: the philosophers forged
+  doctrines and presented them to the Church; whereupon the Church
+  consecrated them to eternity, and the philosophers were not allowed
+  thereafter to improve or to restore their own creations. “La théologie
+  n’est quelque chose qu’à condition d’être tout.”
+
+  [47] As Erigena and Rabanus knew some Greek, Ireland, like Edessa and
+  Bagdad, seems to have shared the honour of preserving original texts;
+  we may infer from the doctrines of Erigena that in Ireland the Timæus
+  was the chief of them.
+
+  [48] See Baas, Geschichtliche Entwickelung des ärztlichen Standes,
+  1896, p. 128. Charlemagne journeyed in Italy where some schools still
+  existed, and where Priscian, Donatus, Boëtius, Cassiodorus, Augustine,
+  even Virgil and Cicero were read; thence he called teachers to his
+  palace schools; and to Lyons, Orleans or Tours. How Paris became the
+  centre of enlightenment in the Western world is not clear. The “palace
+  school” probably was of no place, but of the royal retinue; that the
+  School of Paris was made up of those of St Geneviève, St Germain des
+  Près and the Cathedral school seems not to be a very probable
+  conjecture.
+
+  [49] The “Arabs” were a mixed throng of orientals; some of them were
+  Aryans, as the Persians and Nestorians; some were Arabs, Syrians, or
+  Hebrews. The Nestorians were eminent as physicians, and it is
+  interesting to this College to know that one of the best translators
+  of Aristotle into Arabic was Johannitius, a Nestorian physician. The
+  Eastern peoples, as the Western, owed all to the Greeks except a
+  double measure of dialectical ingenuity, which was their own, and is
+  their own to-day. By the incisive methods of Aristotle the Christian
+  neo-platonists had been variously carved into heretics—such as the
+  Monophysites; and these when driven eastwards carried Greek to Edessa
+  and Bagdad: from these centres it was, and from Nisibur in Persia and
+  elsewhere, that the “Saracens” drew their culture. Aristotle was first
+  translated into Arabic in the reign of Al Mansur, the son of Harûn al
+  Raschid (813-833); Avicenna carried the Aristotelian encyclopedia to
+  its culmination; and Cordova in the tenth century was as full of
+  fervid disciples as was Paris in the thirteenth. The Arabian medicine
+  was Aristotle and Galen. The Arabian philosophy was originally built
+  upon the Alexandrian emanations and hypostases (the soul of the
+  universe, intelligence the first of creatures, nature and mutability,
+  and so forth). Essences and forms were produced, as the
+  “intelligibilia” of “real” knowledge, till, as some one has wittily
+  put it, “universals became almost palpable.” Avicenna indeed
+  approached understanding from the senses, and Averroes accepted this
+  right position; but he taught the permanent subsistence of
+  intelligence, as a sphere in a hierarchy of spiritual principles
+  independent of matter and persons. In no long time this was turned
+  into the unity, as opposed to the individuality, of the soul; the
+  universal soul dipping as it were into the individual, and at his
+  death returning into the universal; a virtual denial of personal
+  immortality. Hence the bitter defiance of Albert and St Thomas. The
+  Averroistic doctrines were enthusiastically propagated on the other
+  hand by that “malleus Ecclesiae Romanae” Frederick the Second
+  (1212-1250). The Arabian science consisted in medicine, mathematics,
+  astronomy, and alchemy. Averroes it was who first asserted the
+  independence of the spheres of science and religion; a division
+  popular at the present day, and one which lent itself to many a
+  convenient subterfuge, in Padua.
+
+  [50] Dante, Inf. (XX. 115). Michael Scot translated Averroes from
+  Arabian to Latin; also the _De cælo_ and _De anima_ of Aristotle,
+  which reached Roger Bacon about 1230. Thus we may regard Michael as
+  the founder of Paduan Averroism. All persons who busied themselves
+  with natural experiment in the Middle Ages were accused of magic; even
+  Albert did not escape the suspicion or the credit of sorcery.
+
+  [51] Renan, Averroès. And to like effect M. Hauréau says, “Le
+  péripatéticisme d’Averroès ne diffère pas moins de l’antique doctrine
+  du Lycée que l’Alhambra du Parthenon”; and he compares “le
+  péripatéticisme d’Albert et d’Aquinas” to the “monuments fiers et
+  bizarres du Gothique du XIIIme siècle.”
+
+  [52] I may venture to quote again the “locus classicus”:—
+
+         “Wel knew he the olde Esculapius,
+          And Deiscorides, and eek Rufus,
+          Old Ypocras, Haly, and Galien;
+          Serapion, Razis, and Avicen;
+          Averrois, Damascien, and Constantyn;
+          Bernard, and Gatesden, and Gilbertyn.”
+
+             Chaucer, C. T. Prol. 429-434 (Skeat’s Ed.).
+
+  [53] See pp. 24 and 28.
+
+  [54] As a school of thought; in fine art of course it was glorious.
+
+  [55] Ozanam (Doc. inédits, quoted by Rashdall, p. 78) says this early
+  light was “une de ces nuits lumineuses où les dernières clartés du
+  soir se prolongent jusqu’aux premières blancheurs du matin.”
+
+  [56] Albert—“nostri temporis stupor et miraculum!”—is an attractive
+  figure, and deserves his renown as the greatest of the medieval sages.
+  His endowments were richer and wider than those of the great Italian
+  logician, his pupil, whose name has had a greater vogue, and whose
+  doctrines are still the accepted discipline of the Church of Rome.
+  Albert restored Aristotle, and in astronomy and chemistry sought for
+  truth in nature. That St Thomas was a man of the highest intellectual
+  power and attainments, an eminence which is claimed for him by many
+  scholars, as by Mr Vernon in his edition of the Paradise, I cannot
+  admit; unless it be to a critical scholar who has mastered the
+  contents of his many folios, if such a scholar there be. For my part,
+  after reading much of what is written of St Thomas, I have but done
+  what was possible to me in other such cases; that is, I have run my
+  eye over the titles of his books and chapters, and formed some rapid
+  judgment here and there of the ways of his thought. Now I venture to
+  assert that the ways of the thought of Aquinas, subtle and symmetrical
+  as they are, lie wholly within the formulas of his age. He left
+  science for logic, the stuff of thought for its instrument; satisfying
+  himself with such tinkling cymbals as “Nihil potest per se operari,
+  nisi quod per se subsistit; ... Impossibile est quod forma separetur a
+  seipsa ... quod subsistens per se desinat esse” ... and so forth.
+  Albert though a less symmetrical is a more original genius. To Aquinas
+  indeed I should hesitate to attribute genius; to Albert it seems to me
+  this title may be granted, if with some hesitation. “Vir famosus et
+  erroneus” was Roger Bacon’s summary of Albert’s career, but Bacon was
+  scarcely an indifferent witness.
+
+  [57] Among the MSS. in Corpus Christi College, Cambridge, are letters
+  of Innocent IV. to the Archdeacon of Canterbury (and others), “Ut
+  (Episc. Linc.) nepotem suum Fredericum (of Lavagna) in canonicatum in
+  ecclesia Lincolniensi, proximè vacaturum, inducat, et Resp. Episc.
+  Linc. in quâ probat talem provisionem esse contra voluntatem et cultus
+  Dei; ideoque negat se concessurum.” I see that the authenticity of
+  some of these letters has been called in question by M. Charles
+  Jourdain, but in any case they are contemporary, and consonant with
+  Robert’s acts and character. Moreover, two years before, Innocent had
+  suspended the bishop for refusing to induct an Italian, ignorant of
+  English, to a rich benefice in his diocese. I find that Dr Luard, in
+  1880, had no doubts of the authenticity of these letters (Encycl.
+  Brit. XI. 211). Mons. Charles Jourdain’s collected essays, in which he
+  discusses their authenticity, were published posthumously in 1888; but
+  his Editor makes the slovenly omission of the dates and places of the
+  first publications of the several essays.
+
+  [58] There were three ways of access to the Greek texts of Aristotle:
+  by the Arab-latin translations; by translations into Latin direct from
+  the Greek; and by the use of the Greek text itself. These means were
+  modified again by the chances of access to particular authors, and, as
+  in the case of Aristotle for example, to particular treatises. To
+  ascertain the dates of access to these new sources I have made some
+  search; and herein I have found great help in the “Recherches
+  critiques” of Amable Jourdain. We must remember that though the source
+  of Western culture is not Latin, but Greek, yet its meagre channels in
+  medieval Europe were Latin; its best tradition lay in Lucretius,
+  Cicero, Seneca, Virgil. The ill-starred Boetius was the last of the
+  Grecians. Greek was driven East and West: West into Ireland, where in
+  the ninth century a few Greek MSS. survived, and were read in the
+  original by Erigena and his disciples; but this Irish Greek tradition
+  was soon lost, and there were no teachers of Greek. Yet it seems
+  certain that, in Oxford, Robert of Lincoln and Adam Marsh had at any
+  rate learned assistance in the production of some Greco-latin
+  translations of Aristotle, of the Ethics for example. Dr Jackson has
+  pointed out to me a passage in Aquinas’ Commentary on the Ethics,
+  where “the presentation of the right reading misspelt, and of a
+  ludicrous etymology side by side with one which is very nearly right,
+  seem to show that, whilst Aquinas had about him people who knew Greek,
+  he himself had no substantial knowledge of it.” Grosseteste himself
+  may have had some efficient knowledge of Greek; “vir in latino et in
+  greco peritissimus,” says Matthew Paris. Dr Jackson (in a private
+  letter) feels assured that “Roger Bacon was plainly a competent Greek
+  scholar. Of this there is proof in the _Opera inedita_, edited by
+  Brewer for the Master of the Rolls.” We know also that more than one
+  scholar of the 11-12th centuries travelled in the East, though, as Dr
+  Daremberg says, travellers to the East were more apt to bring back
+  false relics than genuine manuscripts. There was a small Greek
+  community and a Greek monastery at Auriol, near the old colony of
+  Marseilles. Still, for lack of masters and materials, Greek then was a
+  very rare accomplishment; and it is manifest, from much internal
+  evidence, that Albert had no Greek; though he certainly possessed
+  Greco-latin translations of some few Aristotelian treatises by other
+  hands, of the _De anima_ and of the Physics for example, whence he
+  makes quotations without interspersion of Arabic titles, proper names,
+  nouns and terms, such as he rather helplessly reproduces in his
+  rendering of the ninth book of the _De cælo_ and elsewhere. We know
+  from other sources that a few treatises, such as the _De anima_, and
+  the first two books of the Ethics, existed in Greco-latin rendering
+  before the Arab-latin versions of Michael Scot and others (1220-1225).
+  In later life Albert had the assistance of Aquinas to whom we have
+  attributed some knowledge of Greek; for we find Aquinas, with the
+  countenance of Urban the Fourth, not only searching Europe for Greek
+  manuscripts, sending emissaries to Spain to make versions for him, and
+  supervising the preparation of translations directly into Latin, but
+  also personally comparing the Latin translations with the Greek texts
+  of the Ethics and Politics, and recording variants; variants which
+  Albert copied from his disciple. (It may be worthy of remark that even
+  so late as 1586 there were no Greek types in Oxford, and that in 1599
+  Casaubon (Life by Pattison) could find no compositors for Greek in
+  Lyons.) The great debt of the West to the Arabs was a new enthusiasm
+  for learning, and for the “Princeps philosophorum”; not their
+  travestied texts and unwieldy commentaries, which Roger Bacon,
+  probably perceiving that his contemporaries swore by the Arab rather
+  than by the Greek, wished he could burn.
+
+  [59] To wonder why Roger Bacon became a clerk and a Franciscan is to
+  look upon the thirteenth century with the eyes of the nineteenth. The
+  vision of St Francis had not grown dim; the strange beauty of his life
+  held men captive still, and his cheerful natural religion still
+  animated his disciples. None could have said more truly than St
+  Francis
+
+    “While others fish with craft for great opinion,
+     I with great truth catch mere simplicity.”
+
+  The grey friar of the fourteenth century, as we know him in Langland
+  and Chaucer, or later in the degraded fanaticism of the Observants,
+  had fallen far from the example of his master. Perhaps the chief
+  reason for Bacon’s decision was that his friend Grosseteste, who on
+  the first coming of the friars wrote eloquently to Gregory the Ninth
+  of their illumination, humility and piety, was a member of the Order,
+  and was the first of its Rectors in Oxford. (Rd. Grosseteste, Epist.
+  ed. Luard; Rolls, 1861, p. 179.) Even in Cambridge, till 1877,
+  teachers and professors, save those of Law or Medicine, were
+  generally speaking in holy orders; for instance, the following
+  extract, of date 1849, which I owe to the kindness of Dr Donald
+  MacAlister, “Cæterum neminem in socium unquam admitti volumus qui non
+  sit aut Theologiam professurus et sacros ordines post certum temporis
+  intervallum inferius definiendum suscepturus aut e Collegio
+  discessurus, nisi unus e duobus sociis qui Medicinæ aut ex illis
+  duobus qui Juris Civilis studio deputati sunt, electus fuerit.” (Stat.
+  Coll. Div. Joh. Evan. Cant. cap. xii. 28 April, 12 Vict. 1849.) To
+  this hour in England the clergy command the public schools. In a
+  warlike society learning and contemplation must fall to the clergy;
+  without the fortresses of war or learning, if there was any safety,
+  there was not dignity or peace. The mendicant orders were young
+  institutions, ascendant, and in favour with the great. Of their
+  usurpations in the universities I have spoken. Within them even Popes
+  could not meddle, as Bacon found to his sorrow. Hales and Ockham also
+  became Minors, as Albert and St Thomas, both of illustrious descent,
+  became Preachers. Moreover the Franciscans had devoted themselves to
+  the care of the sick, and especially of those smitten with the new
+  pestilences—such as leprosy, syphilis, and plague—which Oriental
+  dirt and asceticism had engendered or inflamed; and thus a bent to
+  observation of natural phenomena may have been encouraged (see art.
+  Roger Bacon, Westminster Rev. loc. cit.). To say that to the monks we
+  owe the conservation of learning is not so true as to say that learned
+  men betook themselves to the religious houses in order to find relief
+  from turmoil, to secure the subsistence of life without its cares, to
+  get access to books, and to profit by the counsel of comrades who had
+  enjoyed not only the culture of their own house, but also the
+  interchange of ideas and manuscripts with all the learned houses in
+  Europe. When these advantages were to be had in the world, learning
+  deserted the monasteries. Again, Bacon was not an unbeliever, nor
+  anything like it; in the _Opus Majus_ he declares the Holy Scriptures
+  to be the source of all truth; not only, like Socrates before him and
+  Kant after him, did he fix his eyes on moral perfection as the end,
+  but also on the Church as the means: on the other hand the resentments
+  of passionate genius under harsh duress did not make a naturally
+  rebellious temper more tractable. “Fames et mora bilem conciunt.” It
+  is evident that within the Franciscan order there were three
+  well-marked parties; namely, of the naturalists, as Bacon; of the
+  mystics, as Bonaventura; and of the sophists, as John Duns the
+  Northumbrian. Now Bacon’s troubles did not begin till the succession
+  to the Generalship of the Order of the seraphic Bonaventura, an
+  argumentative mystic (like Duns, and unlike the ecstatic mystics of St
+  Victor), who, rejecting Aristotle, had steeped himself in the
+  neo-platonism of Augustine and “Dionysius the Areopagite”; and
+  Bonaventura and his party it was who stopped Bacon’s mouth at Oxford,
+  and shut him up in Paris. What the life of Bacon and the direction of
+  medieval thought might have been had Grosseteste been able to spare
+  Adam Marsh from Oxford for the Generalship it were perhaps too curious
+  to consider; yet we may profitably remember that Bacon, brushing aside
+  Porphyry and his questions, and denouncing the “vain physics” of
+  Paris, urged that enquiry should begin with the simplest objects of
+  research, and rise gradually to the higher and higher; every
+  observation being controlled by experiment. He says indeed that by
+  experiment only can we distinguish a sophism from a demonstration.
+  (Op. Tert. XIX.) Earnestly he tried to follow this method; he seems to
+  have spent on it substance of his own, and, after this was exhausted,
+  to have appeared for the first time in history as a petitioner for
+  “scientific grants in aid.” Diderot speaks of Bacon as “Un des génies
+  les plus surprenants que la nature ait produits, et un des hommes les
+  plus malheureux”; he lived in vain, died unhonoured, and left no
+  disciple.
+
+  [60] “Colliget,” Mr E. G. Browne tells me, is a corruption of
+  Kulliyyat. It does not exactly mean “Summary” (as commonly stated) but
+  rather “General Principles” (Kull means “the whole”; Kulli universal
+  or general; fem. pl. Kulliyyat). It may also mean collected writings
+  (e.g. of a poet).
+
+  [61] Vid. p. 50.
+
+  [62] I venture to say “even of Caius,” though Caius was a competent
+  and indeed for his time an able clinical physician, as we observe in
+  his work on the sweating sickness. (Vid. note, p. 96.)
+
+  [63] Oxford fell in the first instance under Franciscan influence, yet
+  Alexander Hales (of this order) gave the peripatetic bent to Oxford
+  which it retains to this day. Creed rather than conduct was the
+  dominant note of the Faith (p. 85); it is interesting therefore to
+  learn that for Oxford Robert of Lincoln and Adam Marsh translated, or
+  procured a translation of, the Ethics. On the probability that
+  Grosseteste had some substantial knowledge of Greek, see p. 75, note
+  2.
+
+  [64] In Casaubon’s diary we get a glimpse of Oxford in 1613. The
+  University was wealthy enough; it had escaped the Paris devastation,
+  but had scarcely deserved its good fortune. There was much active
+  teaching of a routine kind, many formalities, much serving of tables;
+  but of living interest in science, learning, or high culture there was
+  not a trace. Of classical learning, in Casaubon’s sense, there was
+  naught. Ecclesiastical controversies absorbed or overwhelmed all other
+  subjects; and the University was regarded by the Government as an
+  instrument of party. The professors were all clerks, and ardent only
+  as pamphleteers. Thus, says Pattison, “the University took its full
+  share of national passion, prejudice and religious sentiment, but was
+  wholly destitute of any power to vivify, to correct, to instruct, or
+  to enlighten.” Pattison’s Casaubon, p. 417.
+
+  [65] Both in Bologna and Padua of course there was a faculty of
+  Medicine; but its tradition in Bologna was traditional and galenical,
+  in Padua independent and progressive. Montpellier had suffered in the
+  desolation of Languedoc.
+
+  [66] See page 82.
+
+  [67] Contra Medicum quendam Invectivarum Libri Quatuor. (Op. T. II.
+  pp. 1086, 801. Ed. Basel, 1555, quoted Renan, Aver. p. 331.)
+
+  [68] The Royal College of Physicians of London had its birth in the
+  schools of Italy; and perhaps in revolt from Averroism the elegant
+  humanity of Linacre has too often prevailed in this College rather
+  than Harvey’s strenuous control of tradition and rhetoric by more
+  positive conceptions, and of all conceptions by direct experimental
+  verification.
+
+  [69] Niccolò Leonico (I give his Latin name in the text as Ueberweg
+  gives it) seems to have been a spirited and effective philosophical
+  lecturer of Hellenist and critical qualities, and of much charm both
+  of style and character. He is not to be confounded with his elder
+  contemporary, Nicolaus Leonicenus, of Vicenza and Ferrara, professor
+  of medicine and an elegant latiner, who translated the aphorisms of
+  Hippocrates; and whose friend Linacre, in translating parts of Galen,
+  did a like service to medicine and letters in England.
+
+  [70] Not only of the circulation of the blood. In his treatise _De
+  generatione_ Harvey disposed of the belief in spontaneous generation
+  (so far as regards visible creatures, its abolition we owe to
+  Pasteur), yet Bacon (N. O. II. 41) accepts it, perhaps as fully as did
+  Sir Thomas Browne. The _De generatione_ however was not actually
+  published till 1651, some 30 years after the _Novum Organon_.
+
+  [71] Galileo and Kepler had proved the validity of terrestrial physics
+  and mathematics in astronomy. Aristotle of course was the first to
+  apply physics to astronomy, but wrong physics.
+
+  [72] With which Malpighi was in close association.
+
+  [73] The _Consilia medica_, or Consultations, were published records,
+  either of particular cases or of diseases in a more general sense,
+  which seem to have been instituted by Thaddæus of Florence in the
+  thirteenth century, were abundant in the fifteenth, and were continued
+  into the sixteenth, and even later. In the fifteenth century these
+  records have a considerable historical value, and no little clinical
+  interest, as the questions to the patient and the records of symptoms
+  are often orderly and graphic, and enable the modern reader to revise
+  the diagnoses, many of them grotesque enough. These Consilia make a
+  great bulk of matter, and one which has not been thoroughly explored.
+  A general account of the Consilia may be read in any good history of
+  medicine, but perhaps the most interesting is to be found in the
+  chapters on medieval medicine in Daremberg’s “Histoire et Doctrines”
+  (e.g. tom. 1. p. 334 et seq.).
+
+  [74] Originally by Fracastorius, Montanus and others, in the former
+  half of the sixteenth century. Caius in England, Mercado in Spain,
+  Baillou in Paris, if not bedside teachers, had done good clinical
+  work, in Consilia and otherwise, in the same century. What
+  Fracastorius did for syphilis, Caius did for the sweating sickness,
+  and Mercado for petechial typhus. Baillou was too dependent upon the
+  letter of tradition.
+
+  [75] Even Descartes has some share with Hegel in the profound error
+  that whatsoever is clearly and definitely conceived is true. The
+  inference if true for formal logic, is not true for natural processes;
+  for instance, Descartes’ well-known attribution of the soul to the
+  pineal gland, because all other parts of the brain are double, and the
+  soul is single!
+
+  [76] “The share of Servetus was small”; that is, the effect of his
+  remarkable discovery was small, for it was buried in a theological
+  work of which but a few copies were rescued from the burning; namely
+  “Christianismi restitutio. Viennæ Allobrogum, 1553.” (Haeser gives the
+  reference to pp. 170-177, De Trinitate divina.) The work was reprinted
+  at Nuremberg in 1790.
+
+[77]   Quæ, simul æthereos animo conceperat ignes,
+       Ore dabat vero carmina plena dei.
+
+                          Ovid, _Fasti_ I, 473.
+
+
+CAMBRIDGE: PRINTED BY J. AND C. F. CLAY, AT THE UNIVERSITY PRESS.
+
+
+
+***END OF THE PROJECT GUTENBERG EBOOK SCIENCE AND MEDIEVAL THOUGHT***
+
+
+******* This file should be named 38943-0.txt or 38943-0.zip *******
+
+
+This and all associated files of various formats will be found in:
+http://www.gutenberg.org/dirs/3/8/9/4/38943
+
+
+
+Updated editions will replace the previous one--the old editions
+will be renamed.
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission.  If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy.  You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License (available with this file or online at
+http://www.gutenberg.org/license).
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation web page at http://www.gutenberg.org/fundraising/pglaf.
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at
+809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
+business@pglaf.org.  Email contact links and up to date contact
+information can be found at the Foundation's web site and official
+page at http://www.gutenberg.org/about/contact
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit http://www.gutenberg.org/fundraising/donate
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including checks, online payments and credit card donations.
+To donate, please visit:
+http://www.gutenberg.org/fundraising/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart is the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For thirty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+Most people start at our Web site which has the main PG search facility:
+
+     http://www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
+
