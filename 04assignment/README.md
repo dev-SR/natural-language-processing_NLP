@@ -17,7 +17,6 @@
     - [Plotting each models performance](#plotting-each-models-performance)
   - [Evaluating the model and make predictions using the Best Model](#evaluating-the-model-and-make-predictions-using-the-best-model)
 
-
 ```python
 """
 cd .\04assignment\
@@ -358,6 +357,11 @@ df['words_count'].min()
     87
 
 
+
+
+```python
+# df[df["author"]=="Aristotle"]
+```
 
 
 ```python
@@ -1080,7 +1084,7 @@ sns.barplot(x='model', y='test_best_score', data=d, errwidth=0)
 
 
 
-![png](README_files/README_43_1.png)
+![png](README_files/README_44_1.png)
 
 
 
@@ -1164,6 +1168,21 @@ Confusion Matrix
 
 
 ```python
+df["author"].unique()
+
+```
+
+
+
+
+    array(['Robert C. (Chamblet) Adams', 'Averroes', 'Alfred William Benn',
+           'Confucius', 'Sir Thomas Clifford Allbutt', 'T.J. de Boer'],
+          dtype=object)
+
+
+
+
+```python
 from sklearn.metrics import confusion_matrix
 
 conf_mat = confusion_matrix(y_test, predicted)
@@ -1178,6 +1197,6 @@ plt.show()
 
 
 
-![png](README_files/README_51_0.png)
+![png](README_files/README_53_0.png)
 
 
