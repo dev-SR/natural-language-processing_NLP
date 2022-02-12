@@ -16,6 +16,8 @@
   - [Hyperparameter tuning: Searching for the ideal model](#hyperparameter-tuning-searching-for-the-ideal-model)
     - [Plotting each models performance](#plotting-each-models-performance)
   - [Evaluating the model and make predictions using the Best Model](#evaluating-the-model-and-make-predictions-using-the-best-model)
+  - [Results](#results)
+
 
 ```python
 """
@@ -182,6 +184,20 @@ def processFiles(text_files,document_no=200):
 
 ```
 
+```pseudocode
+fil1
+	doc 1 - a
+	doc 2 - a
+	doc 3 - a
+fil2
+	doc 1 - b
+	doc 2 - b
+	doc 3 - b
+
+doc 	= [doc 1, doc 2, doc 3,doc 1 ,doc 2,doc 3]
+author 	= [a,a,a,b ,b,b]
+```
+
 
 ```python
 df_obj_of_documents = processFiles(getTextFileList(),document_no=200)
@@ -242,6 +258,7 @@ import pandas as pd
 # })
 df = pd.DataFrame(df_obj_of_documents)
 df.head()
+# df.to_csv("data.csv", index=False)
 ```
 
 
@@ -479,38 +496,38 @@ df.head()
   <tbody>
     <tr>
       <th>0</th>
-      <td>in a general way. The shipping-master was in c...</td>
-      <td>Robert C. (Chamblet) Adams</td>
-      <td>394</td>
-      <td>3</td>
-    </tr>
-    <tr>
-      <th>1</th>
-      <td>explain it to them in detail is innovation, fo...</td>
-      <td>Averroes</td>
-      <td>277</td>
-      <td>1</td>
-    </tr>
-    <tr>
-      <th>2</th>
-      <td>in Bruno himself the leaning is distinctly tow...</td>
-      <td>Alfred William Benn</td>
-      <td>220</td>
-      <td>0</td>
-    </tr>
-    <tr>
-      <th>3</th>
-      <td>highest good. But Leibniz did not go so far as...</td>
-      <td>Alfred William Benn</td>
-      <td>220</td>
-      <td>0</td>
-    </tr>
-    <tr>
-      <th>4</th>
-      <td>enough. If for three years gentlemen forsake c...</td>
+      <td>people tremble.[32] [Footnote 32: _Tremble_ an...</td>
       <td>Confucius</td>
       <td>173</td>
       <td>2</td>
+    </tr>
+    <tr>
+      <th>1</th>
+      <td>pushed back into efficient reason or divine wi...</td>
+      <td>Sir Thomas Clifford Allbutt</td>
+      <td>142</td>
+      <td>4</td>
+    </tr>
+    <tr>
+      <th>2</th>
+      <td>in the interpretation itself. Amongst these ma...</td>
+      <td>Averroes</td>
+      <td>278</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <th>3</th>
+      <td>highest degree of perfection and an eternal pl...</td>
+      <td>T.J. de Boer</td>
+      <td>320</td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <th>4</th>
+      <td>also the masts and yards, and wearing away the...</td>
+      <td>Robert C. (Chamblet) Adams</td>
+      <td>395</td>
+      <td>3</td>
     </tr>
   </tbody>
 </table>
@@ -623,43 +640,43 @@ df.head()
   <tbody>
     <tr>
       <th>0</th>
-      <td>in a general way. The shipping-master was in c...</td>
-      <td>Robert C. (Chamblet) Adams</td>
-      <td>394</td>
-      <td>3</td>
-      <td>gener way shippingmast close allianc polic pla...</td>
-    </tr>
-    <tr>
-      <th>1</th>
-      <td>explain it to them in detail is innovation, fo...</td>
-      <td>Averroes</td>
-      <td>277</td>
-      <td>1</td>
-      <td>explain detail innov would like mislead guid r...</td>
-    </tr>
-    <tr>
-      <th>2</th>
-      <td>in Bruno himself the leaning is distinctly tow...</td>
-      <td>Alfred William Benn</td>
-      <td>220</td>
-      <td>0</td>
-      <td>runo lean distinctli toward plural uprem onad ...</td>
-    </tr>
-    <tr>
-      <th>3</th>
-      <td>highest good. But Leibniz did not go so far as...</td>
-      <td>Alfred William Benn</td>
-      <td>220</td>
-      <td>0</td>
-      <td>highest good ut eibniz go far lato ediat two m...</td>
-    </tr>
-    <tr>
-      <th>4</th>
-      <td>enough. If for three years gentlemen forsake c...</td>
+      <td>people tremble.[32] [Footnote 32: _Tremble_ an...</td>
       <td>Confucius</td>
       <td>173</td>
       <td>2</td>
-      <td>enough f three year gentlemen forsak courtesi ...</td>
+      <td>peopl trembl ootnot _remble_ _chestnut_ sound ...</td>
+    </tr>
+    <tr>
+      <th>1</th>
+      <td>pushed back into efficient reason or divine wi...</td>
+      <td>Sir Thomas Clifford Allbutt</td>
+      <td>142</td>
+      <td>4</td>
+      <td>push back effici reason divin almost vanish la...</td>
+    </tr>
+    <tr>
+      <th>2</th>
+      <td>in the interpretation itself. Amongst these ma...</td>
+      <td>Averroes</td>
+      <td>278</td>
+      <td>1</td>
+      <td>interpret mongst may mention bu amid l hazzali...</td>
+    </tr>
+    <tr>
+      <th>3</th>
+      <td>highest degree of perfection and an eternal pl...</td>
+      <td>T.J. de Boer</td>
+      <td>320</td>
+      <td>5</td>
+      <td>highest degre perfect etern plenitud realiti s...</td>
+    </tr>
+    <tr>
+      <th>4</th>
+      <td>also the masts and yards, and wearing away the...</td>
+      <td>Robert C. (Chamblet) Adams</td>
+      <td>395</td>
+      <td>3</td>
+      <td>also mast yard wear away deck holyston well le...</td>
     </tr>
   </tbody>
 </table>
@@ -676,7 +693,7 @@ df['documents'].iloc[0]
 
 
 
-    'in a general way. The shipping-master was in close alliance with the police of the place, and the arrest of the deserters from the S---- was soon reported to him. He thereupon informed the captain that the men must be received on board again, but by mutual agreement a certain sum was paid to the shipping master for each man, and they were reported to the Consul as deserters. The remainder of the crew were soon got rid of, and the rest of the ships followed suit, paying $10 to $15 per man to the shipping-master. My own crew were much attached to their ship and were unwilling to leave. I would not allow them to be oppressed in order to drive them away, and the owners were forced to submit to the expense of maintaining a large crew, besides the loss occasioned by the idleness of the ship. After some time, half of the crew, knowing that they were not wanted, and were only a burden, consented to leave; but the Consul, in reply to the application, held up the three months\' pay law, and my choice was to keep the men or pay sixty dollars each besides the wages due. In this dilemma the shipping master offered to allow the men to "desert," upon my paying him fourteen dollars apiece, which was to be called "two weeks\' board." I felt compelled in justice to my owners\' interest to adopt this plan, and connive at the rascality by which an unjust law was evaded by those entrusted with its enforcement. The matter was arranged so as to do no violence to my conscience in the matter of oath and declaration of desertion. This shipping master, after a short term of service was able to buy a half interest in a large ship, and probably approves of the three-months\' pay law. The previous Consul is said to have taken away eighty thousand dollars after a few years\' residence. The owners of the ship I commanded are a firm on whom Dr. Jewell, in the above-mentioned work, has cast severe aspersions, and it is due to them to say that at the close of the voyage, while admitting that a less humane captain would have made a more economical voyage, they thoroughly approved of my principles, and said they did not mind losing a thousand'
+    "people tremble.[32] [Footnote 32: _Tremble_ and _chestnut_ have the same sound in Chinese.] On hearing this, the Master said, I do not speak of what is ended, chide what is settled, or find fault with what is past.[33] [Footnote 33: In old times men had been sacrificed at the earth-altars, and Tsai Wo's answer might seem to approve the practice.] 22. The Master said, How shallow was Kuan Chung! But, said one, was not Kuan Chung thrifty? The Kuan, said the Master, owned San Kuei, and no one of his household held two posts: was that thrift? At least Kuan Chung knew good form. The Master said, Kings screen their gates with trees; the Kuan, too, had trees to screen his gate. When two kings are carousing, they have a stand for the turned-down cups; the Kuan had a turned-down cup-stand, too! If the Kuan knew good form, who does not know good form?[34] [Footnote 34: Kuan Chung (+ 645 B.C.), a famous man in his day, was chief minister to the Duke"
 
 
 
@@ -689,7 +706,7 @@ df['clean_msg'].iloc[0]
 
 
 
-    'gener way shippingmast close allianc polic place arrest desert soon report e thereupon inform captain men must receiv board mutual agreement certain sum paid ship master man report onsul desert remaind crew soon got rid rest ship follow suit pay per man shippingmast crew much attach ship unwil leav would allow oppress order drive away owner forc submit expens maintain larg crew besid loss occas idl ship fter time half crew know want burden consent leav onsul repli applic held three month pay law choic keep men pay sixti dollar besid wage due n dilemma ship master offer allow men desert upon pay fourteen dollar apiec call two week board felt compel justic owner interest adopt plan conniv rascal unjust law evad entrust enforc matter arrang violenc conscienc matter oath declar desert ship master short term servic abl buy half interest larg ship probabl approv threemonth pay law previou onsul said taken away eighti thousand dollar year resid owner ship command firm r ewel abovement work cast sever aspers due say close voyag admit less human captain would made econom voyag thoroughli approv principl said mind lose thousand'
+    'peopl trembl ootnot _remble_ _chestnut_ sound hines n hear aster said speak end chide settl find fault past ootnot n old time men sacrif earthaltar sai os answer might seem approv practic aster said ow shallow uan hung ut said one uan hung thrifti uan said aster own uei one household held two post thrift least uan hung knew good form aster said ing screen gate tree uan tree screen gate hen two king carous stand turneddown cup uan turneddown cupstand f uan knew good form know good form ootnot uan hung famou man day chief minist uke'
 
 
 
@@ -744,13 +761,13 @@ print(X_traincv.toarray())
 
 ```
 
-    [[0.         0.         0.         ... 0.         0.         0.        ]
-     [0.         0.         0.         ... 0.         0.         0.        ]
-     [0.         0.         0.         ... 0.         0.         0.        ]
+    [[0. 0. 0. ... 0. 0. 0.]
+     [0. 0. 0. ... 0. 0. 0.]
+     [0. 0. 0. ... 0. 0. 0.]
      ...
-     [0.         0.         0.         ... 0.         0.         0.        ]
-     [0.         0.         0.         ... 0.10781064 0.         0.        ]
-     [0.         0.         0.         ... 0.         0.         0.        ]]
+     [0. 0. 0. ... 0. 0. 0.]
+     [0. 0. 0. ... 0. 0. 0.]
+     [0. 0. 0. ... 0. 0. 0.]]
 
 
 ## Train the model
@@ -781,7 +798,7 @@ mnb.score(x_testcv, y_test)*100
 
 
 
-    92.08333333333333
+    89.58333333333334
 
 
 
@@ -792,7 +809,7 @@ print(x_test.iloc[1])
 ```
 
     Test Text:
-    pushed universals back to immanence in the Divine mind. For Plato the ideas are thoughts of universal mind; for Aristotle God, or Nature by its thoughts or plans determines the lines of phenomena: thus Plato and Aristotle were more alike than Thomas knew, or Hauréau admits. There was no such thing of course as The Scholastic Philosophy, of which I read again but the other day in a modern work. Scholasticism is the very various teaching of the schools of the XI-XVth centuries; though its general tendency was to search rather into the origin and nature than into the functions of being. The philosophy of the thirteenth century on the whole was eclectic;—though perhaps eclectic by confusion rather than by reconciliation. The rule of authority prevented an appreciation of the relative values of opinions; the recognised authorities were equally true, and had
+    said, that music could reach such heights. 14. Jan Yu said, Is the Master for the lord of Wei?[66] [Footnote 66: The grandson of Duke Ling, the husband of Nan-tzu. His father had been driven from the country for plotting to kill Nan-tzu. When Duke Ling died, he was succeeded by his grandson, who opposed by force his father's attempts to seize the throne.] I shall ask him, said Tzu-kung. He went in, and said, What kind of men were Po-yi[67] and Shu-ch'i? Worthy men of yore, said the Master. Did they rue the past? They sought love and found it; what had they to rue? Tzu-kung went out, and said, The Master is not for him. 15. The Master said, Eating coarse rice and drinking water, with bent arm for pillow, we may be merry; but ill-gotten wealth and honours are to me a wandering cloud. 16. The Master said, Given a few more years, making fifty for learning the Yi,[68] I might be freed from gross faults. [Footnote 67: See Book
 
 
 
@@ -804,7 +821,7 @@ actual_label
 
 
 
-    4
+    2
 
 
 
@@ -816,7 +833,7 @@ labelencoder.inverse_transform([actual_label])
 
 
 
-    array(['Sir Thomas Clifford Allbutt'], dtype=object)
+    array(['Confucius'], dtype=object)
 
 
 
@@ -826,8 +843,16 @@ y_pred = mnb.predict(cv2.transform([x_test.iloc[1]]))
 print(f"Predicted Y : {y_pred[0]}, author: {labelencoder.inverse_transform([y_pred[0]])}")
 ```
 
-    Predicted Y : 4, author: ['Sir Thomas Clifford Allbutt']
+    Predicted Y : 2, author: ['Confucius']
 
+
+
+```python
+# from sklearn.neighbors import KNeighborsClassifier
+# knn = KNeighborsClassifier(n_neighbors=50)
+# knn.fit(X_traincv, y_train)
+# knn.score(x_testcv, y_test)*100
+```
 
 ## Hyperparameter tuning: Searching for the ideal model
 
@@ -962,28 +987,29 @@ cprint(best_model.best_estimator_,"red")
 ```
 
     Running Model:[32mKNeighbors[0m
-    Best Training Score:[36m89.58%  [0mBest Test Score:[36m90.42%  [0m
+    Best Training Score:[36m88.85%  [0mBest Test Score:[36m88.75%  [0m
     Best Params:[33m{'leaf_size': 25, 'n_neighbors': 25, 'weights': 'uniform'}[0m
     Running Model:[32mDecisionTree[0m
-    Best Training Score:[36m74.69%  [0mBest Test Score:[36m71.25%  [0m
-    Best Params:[33m{'criterion': 'entropy', 'max_depth': None, 'max_features': None, 'random_state': 42, 'splitter': 'best'}[0m
+    Best Training Score:[36m75.62%  [0mBest Test Score:[36m75.83%  [0m
+    Best Params:[33m{'criterion': 'gini', 'max_depth': None, 'max_features': None, 'random_state': 42, 'splitter': 'best'}[0m
     Running Model:[32mMultinomialNB[0m
-    Best Training Score:[36m91.46%  [0mBest Test Score:[36m92.08%  [0m
-    Best Params:[33m{'fit_prior': True}[0m
+    Best Training Score:[36m90.21%  [0mBest Test Score:[36m90.42%  [0m
+    Best Params:[33m{'fit_prior': False}[0m
     Running Model:[32mSVC[0m
-    Best Training Score:[36m92.81%  [0mBest Test Score:[36m91.67%  [0m
-    Best Params:[33m{'fit_intercept': True, 'loss': 'hinge', 'max_iter': 900, 'multi_class': 'ovr', 'random_state': 42}[0m
+    Best Training Score:[36m92.08%  [0mBest Test Score:[36m92.08%  [0m
+    Best Params:[33m{'fit_intercept': True, 'loss': 'hinge', 'max_iter': 900, 'multi_class': 'crammer_singer', 'random_state': 42}[0m
     Running Model:[32mSVM[0m
-    Best Training Score:[36m92.4%  [0mBest Test Score:[36m92.08%  [0m
-    Best Params:[33m{'C': 1, 'gamma': 1, 'kernel': 'rbf'}[0m
+    Best Training Score:[36m92.71%  [0mBest Test Score:[36m91.67%  [0m
+    Best Params:[33m{'C': 100, 'gamma': 0.001, 'kernel': 'rbf'}[0m
     Running Model:[32mRandomForest[0m
-    Best Training Score:[36m90.62%  [0mBest Test Score:[36m90.83%  [0m
-    Best Params:[33m{'bootstrap': False, 'criterion': 'gini', 'max_depth': 85, 'max_features': 'log2', 'n_estimators': 90, 'random_state': 42}[0m
+    Best Training Score:[36m91.25%  [0mBest Test Score:[36m90.0%  [0m
+    Best Params:[33m{'bootstrap': False, 'criterion': 'gini', 'max_depth': 100, 'max_features': 'log2', 'n_estimators': 80, 'random_state': 42}[0m
     Running Model:[32mSGDClassifier[0m
-    Best Training Score:[36m92.29%  [0mBest Test Score:[36m92.92%  [0m
+    Best Training Score:[36m91.77%  [0mBest Test Score:[36m91.25%  [0m
     Best Params:[33m{'alpha': 0.001, 'early_stopping': True, 'loss': 'hinge', 'max_iter': 1000, 'penalty': 'l2', 'random_state': 42}[0m
 
-    Best Model:[31mSGDClassifier(alpha=0.001, early_stopping=True, random_state=42)[0m
+    Best Model:[31mLinearSVC(loss='hinge', max_iter=900, multi_class='crammer_singer',
+              random_state=42)[0m
 
 
 
@@ -1012,50 +1038,50 @@ d
     <tr>
       <th>0</th>
       <td>KNeighbors</td>
-      <td>0.895833</td>
-      <td>0.904167</td>
+      <td>0.888542</td>
+      <td>0.887500</td>
       <td>{'leaf_size': 25, 'n_neighbors': 25, 'weights'...</td>
     </tr>
     <tr>
       <th>1</th>
       <td>DecisionTree</td>
-      <td>0.746875</td>
-      <td>0.712500</td>
-      <td>{'criterion': 'entropy', 'max_depth': None, 'm...</td>
+      <td>0.756250</td>
+      <td>0.758333</td>
+      <td>{'criterion': 'gini', 'max_depth': None, 'max_...</td>
     </tr>
     <tr>
       <th>2</th>
       <td>MultinomialNB</td>
-      <td>0.914583</td>
-      <td>0.920833</td>
-      <td>{'fit_prior': True}</td>
+      <td>0.902083</td>
+      <td>0.904167</td>
+      <td>{'fit_prior': False}</td>
     </tr>
     <tr>
       <th>3</th>
       <td>SVC</td>
-      <td>0.928125</td>
-      <td>0.916667</td>
+      <td>0.920833</td>
+      <td>0.920833</td>
       <td>{'fit_intercept': True, 'loss': 'hinge', 'max_...</td>
     </tr>
     <tr>
       <th>4</th>
       <td>SVM</td>
-      <td>0.923958</td>
-      <td>0.920833</td>
-      <td>{'C': 1, 'gamma': 1, 'kernel': 'rbf'}</td>
+      <td>0.927083</td>
+      <td>0.916667</td>
+      <td>{'C': 100, 'gamma': 0.001, 'kernel': 'rbf'}</td>
     </tr>
     <tr>
       <th>5</th>
       <td>RandomForest</td>
-      <td>0.906250</td>
-      <td>0.908333</td>
+      <td>0.912500</td>
+      <td>0.900000</td>
       <td>{'bootstrap': False, 'criterion': 'gini', 'max...</td>
     </tr>
     <tr>
       <th>6</th>
       <td>SGDClassifier</td>
-      <td>0.922917</td>
-      <td>0.929167</td>
+      <td>0.917708</td>
+      <td>0.912500</td>
       <td>{'alpha': 0.001, 'early_stopping': True, 'loss...</td>
     </tr>
   </tbody>
@@ -1084,7 +1110,7 @@ sns.barplot(x='model', y='test_best_score', data=d, errwidth=0)
 
 
 
-![png](README_files/README_44_1.png)
+![png](README_files/README_46_1.png)
 
 
 
@@ -1127,16 +1153,16 @@ evaluate_preds(y_test, predicted)
 
 ```
 
-    Acc: 92.92%
-    Precision: 0.93
-    Recall: 0.93
-    F1 score: 0.93
+    Acc: 92.08%
+    Precision: 0.92
+    Recall: 0.92
+    F1 score: 0.92
 
 
 
 
 
-    {'accuracy': 0.93, 'precision': 0.93, 'recall': 0.93, 'f1': 0.93}
+    {'accuracy': 0.92, 'precision': 0.92, 'recall': 0.92, 'f1': 0.92}
 
 
 
@@ -1151,16 +1177,16 @@ print(metrics.classification_report(y_test, predicted,
 
                                  precision    recall  f1-score   support
 
-     Robert C. (Chamblet) Adams       0.90      0.85      0.88        41
-                       Averroes       1.00      0.95      0.98        43
-            Alfred William Benn       1.00      0.89      0.94        44
-                      Confucius       1.00      0.97      0.99        36
-    Sir Thomas Clifford Allbutt       0.71      0.94      0.81        34
-                   T.J. de Boer       1.00      0.98      0.99        42
+                      Confucius       1.00      0.82      0.90        49
+    Sir Thomas Clifford Allbutt       0.95      0.97      0.96        40
+                       Averroes       0.91      0.93      0.92        42
+                   T.J. de Boer       1.00      0.98      0.99        43
+     Robert C. (Chamblet) Adams       0.76      0.89      0.82        36
+            Alfred William Benn       0.91      0.97      0.94        30
 
-                       accuracy                           0.93       240
-                      macro avg       0.93      0.93      0.93       240
-                   weighted avg       0.94      0.93      0.93       240
+                       accuracy                           0.92       240
+                      macro avg       0.92      0.93      0.92       240
+                   weighted avg       0.93      0.92      0.92       240
 
 
 
@@ -1175,9 +1201,9 @@ df["author"].unique()
 
 
 
-    array(['Robert C. (Chamblet) Adams', 'Averroes', 'Alfred William Benn',
-           'Confucius', 'Sir Thomas Clifford Allbutt', 'T.J. de Boer'],
-          dtype=object)
+    array(['Confucius', 'Sir Thomas Clifford Allbutt', 'Averroes',
+           'T.J. de Boer', 'Robert C. (Chamblet) Adams',
+           'Alfred William Benn'], dtype=object)
 
 
 
@@ -1197,6 +1223,40 @@ plt.show()
 
 
 
-![png](README_files/README_53_0.png)
+![png](README_files/README_55_0.png)
 
 
+
+## Results
+
+- `n-fold = 3`
+
+<div align="center">
+<img src="img/cv_3.jpg" alt="cv_3.jpg" width="900px">
+</div>
+
+- default `n-fold = 5`
+
+<div align="center">
+<img src="img/cv_5.jpg" alt="cv_5.jpg" width="900px">
+</div>
+
+- default `n-fold = 5`, without dropping words len < 100
+
+<div align="center">
+<img src="img/cv_5_no_w_drop.jpg" alt="cv_5_no_w_drop.jpg" width="900px">
+</div>
+
+- `n-fold = 10`
+
+<div align="center">
+<img src="img/cv_10.jpg" alt="cv_10.jpg" width="900px">
+</div>
+
+<div align="center">
+<img src="img/cv_10_1.jpg" alt="cv_10_1.jpg" width="900px">
+</div>
+
+<div align="center">
+<img src="img/cv_10_2.jpg" alt="cv_10_2.jpg" width="900px">
+</div>
